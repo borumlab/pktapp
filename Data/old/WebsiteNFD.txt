@@ -1,0 +1,1675 @@
+NDID	grams_Pro_per_100g	grams_Fat_per_100g	grams_Cho_per_100g	Category_1	Category_2	Category_3	Serving_Size	Store	Package_Amount	Price_per_Package
+ND00102	8.450704225	5.633802817	0	Baby_Foods	Baby_Meats	Stage_1	1 jar	WD	71	1.19
+ND00101	11.26760563	1.408450704	0	Baby_Foods	Baby_Meats	Stage_1	1 jar	WD	71	1.19
+ND00207	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	2838	3.79
+ND00208	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	2838	3.79
+ND00220	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp (1/18 bottle)	PB	48	3.79
+ND00219	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00218	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp (1/18 bottle)	PB	48	3.79
+ND00217	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp (1/18 bottle)	PB	48	3.79
+ND00216	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00215	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00213	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00214	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00212	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00211	0	0	0	Beverages	Flavored_Water	Null	0.5 tsp	PB	48	3.79
+ND00227	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	3000	4.29
+ND00224	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	3000	4.29
+ND00225	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	3000	4.29
+ND00221	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	3000	4.29
+ND00223	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	3000	4.29
+ND00226	0	0	0	Beverages	Flavored_Water	Null	1 bottle	PB	3000	4.29
+ND00261	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	6.2	0.2
+ND00259	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	PB	3.6	0.2
+ND00260	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	6.5	0.2
+ND00262	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	3.6	0.2
+ND00264	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	4	0.2
+ND00265	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	6.5	0.29
+ND00266	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	3.9	0.2
+ND00267	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	3.9	0.2
+ND00268	0	0	0	Beverages	Powdered_Mix	Null	1/8 package	SW	4.5	0.29
+ND00282	0	0	0	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00283	0	0	0	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00284	0	0	0	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00285	0	0	0	Beverages	Soda	Null	12 fl oz (1 can)	PB	4260	4.99
+ND00286	0	0	0	Beverages	Soda	Null	8 fl oz	PB	2000	1.99
+ND00287	0	0	0	Beverages	Soda	Null	12 fl oz (1 can)	PB	2000	1.99
+ND00288	0	0	0	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00289	0	0	0	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00290	0	0	0	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00292	0	0	0	Beverages	Soda	Null	1 bottle	SW	2100	3.38
+ND00293	0	0	0	Beverages	Soda	Null	12 fl oz.	PB	2000	1.99
+ND00294	0	0	0	Beverages	Soda	Null	12 fl oz	SW	2000	1.48
+ND00295	0	0	0	Beverages	Soda	Null	12 fl oz	SW	2000	1.48
+ND00296	0	0	0	Beverages	Soda	Null	8 fl oz.	PB	2000	0.99
+ND00297	0	0	0	Beverages	Soda	Null	8 fl oz.	PB	2000	0.99
+ND00298	0	0	0	Beverages	Soda	Null	8 fl oz.	PB	2000	0.99
+ND00299	0	0	0	Beverages	Soda	Null	8 fl oz.	PB	2000	0.99
+ND00301	0	0	0	Beverages	Soda	Null	8 fl oz.	PB	2000	1
+ND00304	0	0	0	Beverages	Soda	Null	12 fl oz.	PB	2000	1.99
+ND00305	0	0	0	Beverages	Soda	Null	12 fl oz.	SW	2000	1.38
+ND00331	21.42857143	35.71428571	0	Dairy_and_Egg	Cheese	Cheddar	0.25 cup	PB	226	4.29
+ND00330	21.42857143	35.71428571	0	Dairy_and_Egg	Cheese	Cheddar	1 oz.(1/8 pkg)	PB	226	4.29
+ND00343	21.42857143	32.14285714	0	Dairy_and_Egg	Cheese	Colby-Jack	1 oz.	PB	226	4.29
+ND00344	21.42857143	32.14285714	0	Dairy_and_Egg	Cheese	Colby-Jack	1 oz.	PB	226	4.29
+ND00345	23.80952381	33.33333333	0	Dairy_and_Egg	Cheese	Colby-Jack	1 portion	PB	210	3.79
+ND00588	25	21.42857143	0	Dairy_and_Egg	Cheese	Mozzarella	1 stick	PB	340	4.79
+ND01902	28.57142857	28.57142857	0	Dairy_and_Egg	Cheese	Other	1 oz	SW	589.67008	11.02
+ND01913	28.57142857	28.57142857	0	Dairy_and_Egg	Cheese	Other	1 oz. 	SW	1079.55	13.23
+ND01919	28.57142857	32.14285714	0	Dairy_and_Egg	Cheese	Other	1 oz	SW	444.5205	11.25
+ND00404	40	30	0	Dairy_and_Egg	Cheese	Parmesan	2 tsp	PB	227	3.79
+ND00405	40	30	0	Dairy_and_Egg	Cheese	Parmesan	2 tsp	PB	170	3.89
+ND00412	27.77777778	33.33333333	0	Dairy_and_Egg	Cheese	Swiss	1 slice	SW	198	2.47
+ND00420	0	40	0	Dairy_and_Egg	Cream	Null	1 tbsp	PB	473	3.59
+ND01853	0	71.42857143	0	Fats_and_Oils	Butter	Flavored	1 tbsp	PB	198	2.19
+ND01855	0	42.85714286	0	Fats_and_Oils	Butter	Flavored	1 tbsp	PB 	453	N/A
+ND00593	0	71.42857143	0	Fats_and_Oils	Butter	Other	1 tbsp	PB	425	3.29
+ND01850	0	57.14285714	0	Fats_and_Oils	Butter	Plain	1 tbsp	PB	425	2.57
+ND00602	0	85.71428571	0	Fats_and_Oils	Butter	Plain	1 tbsp	PB	227	2.79
+ND00616	0	0	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Cooking_Spray	.33 sec. spray	WD	170	2.99
+ND00617	0	0	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Cooking_Spray	1 spray	SW	340	3.78
+ND00618	0	0	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Cooking_Spray	0.25 sec. spray	WD	141	2.99
+ND00619	0	0	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Cooking_Spray	.33 sec. spray	WD	141	2.99
+ND00615	0	0	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Cooking_Spray	.33 sec. spray 	PB	170	2.69
+ND00620	0	50	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Plain	1 tbsp	WD	425	2.79
+ND00630	0	57.14285714	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	227	4.89
+ND00635	0	64.28571429	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	454	2.29
+ND00632	0	57.14285714	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	340	2.1
+ND00634	0	72.72727273	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	368	3.35
+ND00639	0	69.23076923	0	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	425	3.35
+ND00646	0	100	0	Fats_and_Oils	Oil	Canola	1 tbsp	PB	1410	3.99
+ND00645	0	100	0	Fats_and_Oils	Oil	Canola	1 tbsp	WM	473	2.98
+ND00644	0	100	0	Fats_and_Oils	Oil	Canola	1 tbsp 	PB	3780	9.99
+ND00647	0	100	0	Fats_and_Oils	Oil	Canola	1 tbsp	SW	3780	N/A
+ND00648	0	100	0	Fats_and_Oils	Oil	Canola	1 tbsp.	PB	946	2.49
+ND01914	0	100	0	Fats_and_Oils	Oil	Coconut	1 Tbsp	PB	414	11.79
+ND00651	0	100	0	Fats_and_Oils	Oil	Coconut	1 tbsp	PB	887	5.79
+ND01920	0	100	0	Fats_and_Oils	Oil	Coconut	1 Tbsp	PB	857	5.99
+ND00650	0	100	0	Fats_and_Oils	Oil	Coconut	1 tbsp	WD	414	7.89
+ND00656	0	0	0	Fats_and_Oils	Oil	Cooking_Spray	0.25 sec. spray	PB	141	3.19
+ND00654	0	0	0	Fats_and_Oils	Oil	Cooking_Spray	.2 sec. spray	PB	141	4.29
+ND00657	0	0	0	Fats_and_Oils	Oil	Cooking_Spray	.2 sec. spray	PB	141	4.29
+ND00653	0	0	0	Fats_and_Oils	Oil	Cooking_Spray	0.25 sec. spray	PB	170	3.19
+ND00655	0	0	0	Fats_and_Oils	Oil	Cooking_Spray	.33 sec. spray	PB	170	2.69
+ND00658	0	0	0	Fats_and_Oils	Oil	Cooking_Spray	.33 sec. spray	PB	170	2.69
+ND00660	0	100	0	Fats_and_Oils	Oil	Corn	1 tbsp (14g)	PB	1420	3.59
+ND00661	0	100	0	Fats_and_Oils	Oil	Corn	1 tbsp (14g)	PB	473	2.69
+ND00662	0	100	0	Fats_and_Oils	Oil	Corn	1 tbsp	PB	1180	3.79
+ND00663	0	100	0	Fats_and_Oils	Oil	Corn	1 tbsp	PB	1420	3.15
+ND00665	0	93.33333333	0	Fats_and_Oils	Oil	Flax	1 tbsp	WD	946	35.49
+ND01862	0	100	0	Fats_and_Oils	Oil	Null	1 Tbsp	WRD	946	7.99
+ND00670	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	6.99
+ND00672	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	6.99
+ND00671	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	750	10.99
+ND00687	0	92	0	Fats_and_Oils	Oil	Olive	1 spoon (15 mL)	I	1000	N/A
+ND00673	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1tbsp	PB	250	18.79
+ND00669	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	5.99
+ND00668	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	6.99
+ND00675	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	SW	502	3.96
+ND00674	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	SW	502	3.86
+ND00688	0	92	0	Fats_and_Oils	Oil	Olive	1 tsp	N/A	1000	N/A
+ND00678	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	946	12.99
+ND00680	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	946	13.89
+ND00681	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	710	4.99
+ND00677	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	SW	710	3.98
+ND00679	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	710	6.99
+ND00683	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	3.73
+ND00684	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	4.79
+ND00685	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	5.99
+ND00686	0	93.33333333	0	Fats_and_Oils	Oil	Olive	1 tbsp	PB	500	5.99
+ND00690	0	92	0	Fats_and_Oils	Oil	Other	1 Tbsp	PB	185	4.39
+ND00691	0	92	0	Fats_and_Oils	Oil	Other	1 Tbsp	PB	185	4.95
+ND00692	0	92.30769231	0	Fats_and_Oils	Oil	Peanut	1 spoon	I	1000	N/A
+ND00693	0	100	0	Fats_and_Oils	Oil	Peanut	1 tbsp	PB	946	4.49
+ND00694	0	100	0	Fats_and_Oils	Oil	Safflower	1 tbsp	WRD	946	8.19
+ND00695	0	100	0	Fats_and_Oils	Oil	Safflower	1 tbsp	PB	946	7.89
+ND00697	0	93.33333333	0	Fats_and_Oils	Oil	Sesame	1 tbsp	PB	375	9.65
+ND00696	0	100	0	Fats_and_Oils	Oil	Sesame	1 tbsp	PB	207	5.19
+ND00698	0	100	0	Fats_and_Oils	Oil	Sesame	1 tbsp	PB	207	5.99
+ND00704	0	100	0	Fats_and_Oils	Oil	Vegetable	1 tbsp	SW	473	1.98
+ND00705	0	100	0	Fats_and_Oils	Oil	Vegetable	1 tbsp	PB	1180	3.79
+ND00706	0	100	0	Fats_and_Oils	Oil	Vegetable	1 tbsp	PB	1890	4.59
+ND00708	0	100	0	Fats_and_Oils	Oil	Walnut	1 tbsp	WF	473	6.79
+ND00721	0	93.33333333	0	Formulas	Fat	Null	1 tbsp	I	5676	399.99
+ND00715	0	21	0	Formulas	Fat	Null	"100mL, one carton is 250 mL"	I	4500	price unavailable now (YZ-09/24/2015)
+ND00714	0	20	0	Formulas	Fat	Null	one carton is 250 mL	I	250	price unavailable now (YZ-09/24/2015)
+ND00745	82	0	0	Formulas	Protein	Null	100	I	1200	612
+ND00855	0	0	0	Grains	Baking_Powder_and_Cornstarch	Bakin_Powder	1/8 tsp	SW	230	1.44
+ND00854	0	0	0	Grains	Baking_Powder_and_Cornstarch	Bakin_Powder	1/8 tbsp	PB	113	1.49
+ND00857	0	0	0	Grains	Baking_Powder_and_Cornstarch	Baking_Soda	1/8 tsp	SW	227	0.5
+ND01868	24.41860465	9.302325581	0	Meats	Bacon_and_Sausage	Fresh_Sausage	1 cooked link	PB	566	6.29
+ND00979	29.41176471	41.17647059	0	Meats	Bacon_and_Sausage	Pork_Bacon	2 fried slices	SW	454	4.33
+ND00963	40	30	0	Meats	Bacon_and_Sausage	Pork_Bacon	2 fried slices	WD	340	4.79
+ND00971	33.33333333	37.5	0	Meats	Bacon_and_Sausage	Pork_Bacon	2 pan fried slices	PB	454	8.69
+ND00977	33.33333333	40	0	Meats	Bacon_and_Sausage	Pork_Bacon	3 fried slices	SW	340	3.44
+ND00989	31.57894737	42.10526316	0	Meats	Bacon_and_Sausage	Pork_Bacon	2 skillet cooked slices	PB	454	7.79
+ND00973	11.42857143	11.42857143	0	Meats	Bacon_and_Sausage	Pork_Bacon	1 fried slice	PB	454	5.99
+ND00969	36.36363636	36.36363636	0	Meats	Bacon_and_Sausage	Pork_Bacon	1 fried slice	PB	454	5.99
+ND01020	12.12121212	36.36363636	0	Meats	Bacon_and_Sausage	Prepared_Sausage	1 patty	PB	198	2.69
+ND01031	14.28571429	14.28571429	0	Meats	Bacon_and_Sausage	Turkey_Bacon	1 slice	PB	340	2.99
+ND01055	27.97	10.57	0	Meats	Beef	Steak	85g=3 oz / 291g=1 steak	PB	454	8.99
+ND01065	21.42857143	5.357142857	0	Meats	Luncheon_Meats	Beef	2 oz. (56 g)	I	454	13.49
+ND01079	23.21428571	1.785714286	0	Meats	Luncheon_Meats	Chicken	2 oz.	I	454	9.59
+ND01127	21.42857143	42.85714286	0	Meats	Luncheon_Meats	Pepperoni	18 slices	PB	141	3.33
+ND01128	21.42857143	42.85714286	0	Meats	Luncheon_Meats	Pepperoni	7 slices 	PB	141	3.33
+ND01139	21.42857143	35.71428571	0	Meats	Luncheon_Meats	Salami	4 slices (28g)	SW	198	3.47
+ND01142	14.11764706	17.64705882	0	Meats	Luncheon_Meats	Spam	1 can 	PB 	85	0.55
+ND01153	23.21428571	1.785714286	0	Meats	Luncheon_Meats	Turkey	2 oz. = 56 g	I	454	10.69
+ND01177	64.28571429	35.71428571	0	Meats	Pork	Null	0.5 oz	PB	92.1	1.99
+ND01178	16.07142857	1.785714286	0	Meats	Poultry	Chicken_Breast	2 oz	SW	142	0.98
+ND01183	23.21428571	1.785714286	0	Meats	Poultry	Chicken_Breast	4oz raw (3oz cooked)	PB	662.2449	9.48
+ND01182	20.53571429	2.232142857	0	Meats	Poultry	Chicken_Breast	4 oz	PB	1814	14.29
+ND01196	16.9	12.54	0	Meats	Poultry	Ground_Turkey	"85g=1 patty,  (cooked from 4 oz raw) / 28.35g=1 oz"	SW	566.990462	3.94
+ND01197	16.96428571	15.17857143	0	Meats	Poultry	Ground_Turkey	4 oz	SW	454	2.96
+ND01201	17.85714286	4.464285714	0	Meats	Poultry	Other	2 oz (56 g)	PB	354	3
+ND01202	23.21428571	1.785714286	0	Meats	Poultry	Other	2 oz	SW	354	2.78
+ND01200	19.64285714	1.785714286	0	Meats	Poultry	Other	2 oz	SW	280	2.78
+ND01295	0	85.71428571	0	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp	SW	473	2.62
+ND01298	0	76.92307692	0	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp	SW	443	3.47
+ND01299	0	76.92307692	0	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp	SW	354	2.58
+ND01303	0	0	0	Sauces_Soups_Condiments_Dressing	Condiments	Mustard	1 tsp	SW	226	1.24
+ND01307	0	0	0	Sauces_Soups_Condiments_Dressing	Condiments	Mustard	1 tsp	PB	227	0.89
+ND01312	0	0	0	Sauces_Soups_Condiments_Dressing	Dressings	Apple_Cider_Vinegar	1 tbsp	PB	473	1.59
+ND01313	0	0	0	Sauces_Soups_Condiments_Dressing	Dressings	Apple_Cider_Vinegar	1 tbsp	WM	946	4.24
+ND01314	0	0	0	Sauces_Soups_Condiments_Dressing	Dressings	Apple_Cider_Vinegar	1 tbsp	PB	946	1.75
+ND01315	0	0	0	Sauces_Soups_Condiments_Dressing	Dressings	Apple_Cider_Vinegar	1 tbsp	SW	946	1.84
+ND01329	0	58.62068966	0	Sauces_Soups_Condiments_Dressing	Dressings	Italian	2 Tbsp	SW	473	2.36
+ND01355	0	0	0	Sauces_Soups_Condiments_Dressing	Dressings	White	1 tbsp	PB	946	1.39
+ND01424	20	10	0	Seafood	Finfish	Other	6 fillets	PB	56.7	1.99
+ND01432	21.42857143	2.678571429	0	Seafood	Finfish	Salmon	about 0.25 cup drained (2oz)	PB	142	1.85
+ND01428	19.04761905	7.936507937	0	Seafood	Finfish	Salmon	0.25 cup	PB	418	2.79
+ND01447	22.53521127	1.408450704	0	Seafood	Finfish	Tuna	1 pouch	PB	71	1.19
+ND01451	23.21428571	1.785714286	0	Seafood	Finfish	Tuna	0.25 cup drained	PB	142	1.43
+ND01452	21.42857143	12.5	0	Seafood	Finfish	Tuna	2 oz. or 0.25 cup	PB	181	2.99
+ND01448	22.97297297	0.675675676	0	Seafood	Finfish	Tuna	1 pouch	PB	74	1.49
+ND01444	21.42857143	0.892857143	0	Seafood	Finfish	Tuna	0.25 cup drained	PB	142	1.67
+ND01456	16.07142857	0.892857143	0	Seafood	Shellfish	Crab	0.25 cup drained	PB	170	5.39
+ND01466	0	0	0	Spices_and_Herbs	Seasonings	Null	1 tsp. 	PB	118	1.99
+ND01467	0	0	0	Spices_and_Herbs	Seasonings	Null	1 g	SW	227	4.68
+ND01468	0	0	0	Spices_and_Herbs	Seasonings	Null	0.25 packet	PB	40	1.19
+ND01470	0	0	0	Spices_and_Herbs	Seasonings	Null	0.25 tsp	PB	170	2.45
+ND01471	0	0	0	Spices_and_Herbs	Seasonings	Null	0.25 tsp	SW	191	6.28
+ND01817	0	0	0	Spices_and_Herbs	Seasonings	Null	0.25 tsp	SW	70	2.38
+ND01829	0	0	0	Supplement	Minerals	Null	2 tablets	SW	120	5.44
+ND01832	0	0	0	Supplement	Minerals	Null	0.25 teaspoon	SW	311	1.48
+ND01833	0	0	0	Supplement	Minerals	Null	0.25 teaspoon	SW	88.6	2.18
+ND01836	0	0	0	Supplement	Minerals	Null	0.25 teaspoon	SW	737	0.86
+ND01825	0	0	0	Supplement	Minerals	Null	1 packet	I	N/A	54.95
+ND01830	0	0	0	Supplement	Multivitamins	Null	1 tablet (4 years and over)	SW	150	7.98
+ND01507	0	100	0	Supplement	Omegas	Null	2 softgels	LK	250	26.99
+ND01826	0	0	0	Supplement	Omegas	Null	2 softgels	CVS	1.2	27.99
+ND01552	111.1111111	0	0	Sweets	Gelatin	Null	0.25 envelope	SW	226	9.98
+ND01532	0	0	0	Sweets	Gelatin	Null	1/8 tsp	PB	49	2.99
+ND01533	0	0	0	Sweets	Gelatin	Null	1/8 tsp	PB	49	3.99
+ND01589	0	0	0	Sweets	Sweeteners	Null	1/8 tsp	PB	127	4.69
+ND01593	0	0	0	Sweets	Sweeteners	Null	1 tsp	SW	113	2.78
+ND01597	0	0	0	Sweets	Sweeteners	Null	10 drops 	WD	236	2.49
+ND01607	0	0	0	Sweets	Syrups_and_Toppings	Null	2 Tbsp	PB	355	3.09
+ND01195	19.64285714	7.142857143	3.55E-15	Meats	Poultry	Ground_Turkey	4 oz.	PB	590	5.79
+ND00589	28.57142857	19.04761905	7.11E-15	Dairy_and_Egg	Cheese	Mozzarella	1 stick	PB	255	4.79
+ND00966	42.85714286	28.57142857	7.11E-15	Meats	Bacon_and_Sausage	Pork_Bacon	2 slices	PB	71	4.29
+ND01898	25	28.57142857	1.42E-14	Dairy_and_Egg	Cheese	Other	1 inch cube 	SW	635.029	6.97
+ND00716	0	52.30125523	1.42E-14	Formulas	Fat	Null	1 Tbsp	I	4257.6	156.99
+ND00991	28.57142857	42.85714286	1.42E-14	Meats	Bacon_and_Sausage	Pork_Bacon	2 skillet cooked slices	PB	454	6.99
+ND00659	0	92.30769231	2.84E-14	Fats_and_Oils	Oil	Corn	1 spoon 	I	1000	N/A
+ND00701	0	92.30769231	2.84E-14	Fats_and_Oils	Oil	Sunflower	1 spoon	I	1000	N/A
+ND00702	0	92.30769231	2.84E-14	Fats_and_Oils	Oil	Sunflower	1 spoon	I	1000	N/A
+ND01198	27.1	11.6	0.05	Meats	Poultry	Ground_Turkey	85g=3 oz / g=	I	454	3.51
+ND00742	4	7.2	0.07	Formulas	Protein	Null	100 mL unreconsituted	I	4608	56.53
+ND01439	20.08	1.7	0.095	Seafood	Finfish	Tilapia	116g=1 fillet / g=	PB	454	6.99
+ND01199	25.11	17.45	0.1275	Meats	Poultry	Ground_Turkey	85g=3 oz / g=	SW	566.990462	3.94
+ND01170	26.18	8.28	0.19	Meats	Pork	Null	3oz=85g	PB	454	3.59
+ND01001	17.54385965	9.649122807	0.219298246	Meats	Bacon_and_Sausage	Prepared_Sausage	2 patties	PB	226.79	3.49
+ND01085	16.07142857	2.678571429	0.223214286	Meats	Luncheon_Meats	Ham	2 oz	WD	255	5.29
+ND01082	16.07142857	2.678571429	0.223214286	Meats	Luncheon_Meats	Ham	2 oz.	PB	252	4.49
+ND01084	16.07142857	2.678571429	0.223214286	Meats	Luncheon_Meats	Ham	2 oz	PB	255	4.49
+ND01193	19.64285714	8.035714286	0.223214286	Meats	Poultry	Ground_Chicken	4oz (raw)	PB	454	3.99
+ND01203	25	2.678571429	0.223214286	Meats	Poultry	Other	2 oz (56 g)	PB	198	3
+ND00291	0	0	0.277777778	Beverages	Soda	Null	12 fl oz	PB	2000	1.99
+ND00309	0	0	0.277777778	Beverages	Sports_Drinks	Null	12 fl oz	SW	946	0.68
+ND00308	0	0	0.277777778	Beverages	Sports_Drinks	Null	12 fl oz.	PB	946	1.25
+ND00310	0	0	0.277777778	Beverages	Sports_Drinks	Null	12 fl oz	WD	946	1.39
+ND00311	0	0	0.277777778	Beverages	Sports_Drinks	Null	12 fl oz. (360mL)	SW	946	0.68
+ND01425	23.80952381	1.19047619	0.297619048	Seafood	Finfish	Other	about 3/4 loin cooked (3 oz)	PB	283	7.99
+ND01436	20.23809524	10.71428571	0.297619048	Seafood	Finfish	Sardine	1 can drained	PB	106	1.29
+ND01871	0	0	0.37037037	Supplement	Multivitamins	Null	1 scoop of powder	I	275	49.95
+ND01404	0.416666667	0.208333333	0.416666667	Sauces_Soups_Condiments_Dressing	Soups	Null	1 cup	PB	907	2.87
+ND01171	25.48	8.48	0.44	Meats	Pork	Null	3oz=85g 	PB	454	3.59
+ND01917	25	12.5	0.446428571	Meats	Luncheon_Meats	Beef	0.25 cup	PB	340	5.49
+ND01459	26.78571429	1.785714286	0.446428571	Seafood	Shellfish	Shrimp	0.25 cup drained	PB	113	2.99
+ND00434	12	10	0.5	Dairy_and_Egg	Egg	Fresh	1 egg	PB	600	3.65
+ND00435	12	10	0.5	Dairy_and_Egg	Egg	Fresh	1 egg	PB	600	2.5
+ND00432	12	10	0.5	Dairy_and_Egg	Egg	Fresh	1 egg	PB	600	4.99
+ND00431	12	10	0.5	Dairy_and_Egg	Egg	Fresh	1 egg	PB	680	4.69
+ND00433	12	10	0.5	Dairy_and_Egg	Egg	Fresh	1 large egg (50 g)	SW	600	3.17
+ND00613	0	100	0.5	Fats_and_Oils	Fat_Other	Lard	12g=1 tbsp / 205g=1 cup	I	453	2.29
+ND00442	11	0	0.6	Dairy_and_Egg	Egg	Liquid	100 g	I	N/A	N/A
+ND01043	18.75	15.17857143	0.669642857	Meats	Beef	Ground	4 oz (112g)	PB	612.6	8.09
+ND01047	17.85714286	20.53571429	0.669642857	Meats	Beef	Ground	4 oz.	WD	494	5.44
+ND01450	28.57142857	0.892857143	0.669642857	Seafood	Finfish	Tuna	about 0.25 cup drained	PB	142	2.19
+ND01443	19.64285714	0.892857143	0.669642857	Seafood	Finfish	Tuna	0.25 cup drained (2oz)	PB	340	3
+ND01441	19.64285714	0.892857143	0.669642857	Seafood	Finfish	Tuna	about 0.25 cup	PB	340	2.99
+ND01410	0.833333333	0	0.729166667	Sauces_Soups_Condiments_Dressing	Soups	Null	1 cup 	PB	907	2.87
+ND01458	25	1.785714286	0.744047619	Seafood	Shellfish	Shrimp	about 5 shrimp	PB	680	23.99
+ND00230	0	0	0.833333333	Beverages	Juice	Craberry Juice	1 cup	PB	1890	3.79
+ND01401	0	1.666666667	0.833333333	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.75
+ND01915	25	32.14285714	0.892857143	Dairy_and_Egg	Cheese	Cheddar	1 oz. (1 inch cube)	SW	821.002	12.63
+ND00332	25	32.14285714	0.892857143	Dairy_and_Egg	Cheese	Cheddar	1 oz	PB	226	5.69
+ND00337	25	32.14285714	0.892857143	Dairy_and_Egg	Cheese	Cheddar	0.25 cup	WD	227	3.59
+ND00338	25	32.14285714	0.892857143	Dairy_and_Egg	Cheese	Cheddar	0.25 cup	WD	227	3.59
+ND00349	25	32.14285714	0.892857143	Dairy_and_Egg	Cheese	Colby-Jack	3 slices	PB	141	4.29
+ND00400	25	32.14285714	0.892857143	Dairy_and_Egg	Cheese	Other	1 oz. (about 1 cube)	PB	198	6.29
+ND01181	22.32142857	0.892857143	0.892857143	Meats	Poultry	Chicken_Breast	4 oz raw	WD	471.7361	4.67
+ND01440	17.85714286	8.035714286	0.892857143	Seafood	Finfish	Tuna	about 0.25 cup	PB	142	0.95
+ND01212	22.64	1.93	1.0175	Meats	Poultry	Turkey_meat	"1 bird = 5,002g"	PB	454	3.49
+ND00242	0	0	1.041666667	Beverages	Juice	Mixed Juice	8 fl oz	PB	3780	2.39
+ND01184	19.64285714	2.678571429	1.116071429	Meats	Poultry	Chicken_Breast	4oz raw (3oz cooked)	PB	907	8.99
+ND01420	15.23	5.94	1.155	Seafood	Finfish	Catfish	85g=3 oz / 159g=1 fillet	PB	454	7.99
+ND00943	19.76744186	20.93023256	1.162790698	Meats	Bacon_and_Sausage	Fresh_Sausage	1 cooked link	PB	566	5.99
+ND01435	17.64705882	25.88235294	1.176470588	Seafood	Finfish	Sardine	1 can drained	PB	106	3.09
+ND01187	25	2.380952381	1.19047619	Meats	Poultry	Chicken_Breast	3 oz. 	PB	226	3.09
+ND00373	20	35	1.25	Dairy_and_Egg	Cheese	Havarti	1 slice	PB	198	3.49
+ND01056	19.61	18.16	1.28	Meats	Beef	Steak	85g=3 oz / 164g=1 steak	PB	454	81.07
+ND01422	19.38	1.02	1.325	Seafood	Finfish	Grouper	85g=3 oz / 259g=1 fillet	PB	340	14.99
+ND01046	17.17	20	1.33	Meats	Beef	Ground	113g=4 oz / g=	PB	508.023454	5.25
+ND01058	17.51	22.07	1.3325	Meats	Beef	Steak	28g=1 oz / 453.6g=1 lb	PB	454	12.77
+ND01044	16.96428571	19.64285714	1.339285714	Meats	Beef	Ground	4 oz	WM	454	3.87
+ND01050	16.07142857	25	1.339285714	Meats	Beef	Ground	4 oz (112g)	PB	562.4	6.19
+ND01045	16.96428571	19.64285714	1.339285714	Meats	Beef	Ground	4 oz (112g)	PB	548.85	5.67
+ND01040	20.53571429	7.142857143	1.339285714	Meats	Beef	Ground	4 oz (112g)	PB	626	9.37
+ND01041	20.53571429	7.142857143	1.339285714	Meats	Beef	Ground	4 oz.	WD	490	7.33
+ND01080	21.42857143	1.785714286	1.339285714	Meats	Luncheon_Meats	Chicken	2 oz.	PB	112	4.49
+ND01446	21.42857143	1.785714286	1.339285714	Seafood	Finfish	Tuna	2 oz. or 0.25 cup	PB	181	3.59
+ND01431	20.5	4.4	1.35	Seafood	Finfish	Salmon	3 oz = 85g	Ward	454	1.66
+ND01453	24.32432432	0.675675676	1.351351351	Seafood	Finfish	Tuna	1 pouch	PB	74	1.49
+ND01430	20.42	13.42	1.385	Seafood	Finfish	Salmon	85g=3 oz / 198g=.5 fillet	PB	454	10.99
+ND01429	19.1011236	3.370786517	1.404494382	Seafood	Finfish	Salmon	1 fillet	PB	179	4.49
+ND01053	22.22	6.5	1.405	Meats	Beef	Steak	85g=3 oz / 460g=1 steak	PB	454	12.99
+ND01168	21.99	3.71	1.4125	Meats	Pork	Null	"85g=3 oz / 178g=1 chop, without refuse (Yield from 1 raw chop, with refuse, weighing 259g)"	PB	535.238997	4.12
+ND01000	17.64705882	10.29411765	1.470588235	Meats	Bacon_and_Sausage	Prepared_Sausage	3 links (68 g)	PB	272	4.49
+ND00999	16.17647059	10.29411765	1.470588235	Meats	Bacon_and_Sausage	Prepared_Sausage	2 patties (68 g)	PB	272	4.49
+ND01437	20.51	1.34	1.475	Seafood	Finfish	Snapper	85g=3 oz / 218g=1 fillet	PB	340	14.99
+ND01054	22.09	4.08	1.48	Meats	Beef	Steak	28g=1 oz / 453.6g=1 lb	PB	454	8.99
+ND01086	18.75	3.125	1.5625	Meats	Luncheon_Meats	Ham	3 slices	WD	340	4.49
+ND01180	21.42857143	2.678571429	1.5625	Meats	Poultry	Chicken_Breast	4 oz	PB	816.466265	6.28
+ND01185	21.42857143	2.678571429	1.5625	Meats	Poultry	Chicken_Breast	4 oz	PB	625.9575	10.34
+ND01215	18.75	9.821428571	1.5625	Meats	Poultry	Turkey_meat	4 oz	PB	1297.27	9.41
+ND01449	23.21428571	0.892857143	1.5625	Seafood	Finfish	Tuna	0.25 cup (2oz)	PB	142	2.49
+ND01188	22.5	2.62	1.605	Meats	Poultry	Chicken_Breast	85g=3 oz / 272g=1 piece	PB	811.930342	8.4
+ND01167	22.81	2.59	1.6125	Meats	Pork	Null	85g=3 oz / 210g=1 chop	PB	689.460402	5.3
+ND01169	22.41	3.42	1.645	Meats	Pork	Null	85g=3 oz / 185g=1 chop	PB	503.48753	6.43
+ND01534	1.123595506	0	1.685393258	Sweets	Gelatin	Null	1 snack	SW	356	1.98
+ND01535	1.123595506	0	1.685393258	Sweets	Gelatin	Null	1 snack	PB	356	2.5
+ND01537	1.123595506	0	1.685393258	Sweets	Gelatin	Null	1 snack	SW	356	1.98
+ND01538	1.123595506	0	1.685393258	Sweets	Gelatin	Null	1 snack	PB	356	2.5
+ND01539	1.123595506	0	1.685393258	Sweets	Gelatin	Null	1 snack	SW	356	1.98
+ND01540	1.123595506	0	1.685393258	Sweets	Gelatin	Null	1 snack	PB	356	2.5
+ND01038	11.86440678	20.33898305	1.694915254	Meats	Bacon_and_Sausage	Vienna_Sausage	59 g (4 links)	PB	130	0.65
+ND00428	10.9	0.17	1.7175	Dairy_and_Egg	Egg	Fresh	33g=1 large / 243g=1 cup	PB	600	2.99
+ND00713	3.09	14.8	1.73	Formulas	Fat	Null	100 mL	I	6399	134
+ND01454	24.4	0.49	1.7475	Seafood	Finfish	Tuna	"28g=1 oz, boneless / 16g=1 cubic inch, boneless"	PB	454	18.99
+ND01232	3.571428571	16.07142857	1.785714286	Beverages	Milk_Substitutes	Coconut Milk	0.25 cup	PB	400	2.29
+ND00592	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Other	1 tbsp	PB	226	2.19
+ND00595	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	227	2.29
+ND00596	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	227	2.29
+ND00597	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	453	4.39
+ND00598	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	453	4.39
+ND01851	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	454	2.77
+ND00599	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	WM	454	2.97
+ND01916	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 Tbsp	SW	500	6.98
+ND00600	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	453.6	4.59
+ND00601	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	453.6	4.59
+ND00604	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	Ward	454	6.99
+ND00605	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	Ward	454	6.99
+ND00606	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	PB	454	3.79
+ND00607	0	78.57142857	1.785714286	Fats_and_Oils	Butter	Plain	1 tbsp	WD	453	3.99
+ND00624	0	78.57142857	1.785714286	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Plain	1 tbsp	PB	425	2.57
+ND00641	0	78.57142857	1.785714286	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	425	3.99
+ND00642	0	78.57142857	1.785714286	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	453	3.39
+ND00640	0	78.57142857	1.785714286	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	453	2.19
+ND00986	42.85714286	35.71428571	1.785714286	Meats	Bacon_and_Sausage	Pork_Bacon	2 fried slices	PB	340	3.59
+ND00959	19.64285714	4.464285714	1.785714286	Meats	Bacon_and_Sausage	Pork_Bacon	2 slices	PB	170	3.79
+ND01059	26.19047619	16.66666667	1.785714286	Meats	Beef	Steak	3 oz.=84 g	I	381	17.25
+ND01066	16.07142857	12.5	1.785714286	Meats	Luncheon_Meats	Beef	1 package	SW	56	0.68
+ND01069	26.78571429	12.5	1.785714286	Meats	Luncheon_Meats	Beef	56 g (2 oz. OR 0.25 cup)	PB	340	5.49
+ND01078	23.21428571	0.892857143	1.785714286	Meats	Luncheon_Meats	Chicken	2 oz.	I	454	9.59
+ND01077	17.85714286	1.785714286	1.785714286	Meats	Luncheon_Meats	Chicken	2 oz.	WD	252	5.29
+ND01141	16.07142857	14.28571429	1.785714286	Meats	Luncheon_Meats	Spam	2 oz	PB	340	2.87
+ND01140	16.07142857	8.035714286	1.785714286	Meats	Luncheon_Meats	Spam	2 oz	PB	340	2.87
+ND01156	21.42857143	1.785714286	1.785714286	Meats	Luncheon_Meats	Turkey	2 oz	PB	213	4.49
+ND01186	21.42857143	2.678571429	1.785714286	Meats	Poultry	Chicken_Breast	4 oz raw	WD	861.826	8.91
+ND01179	19.64285714	1.785714286	1.785714286	Meats	Poultry	Chicken_Breast	0.25 cup	PB	198	3.09
+ND01297	0	78.57142857	1.785714286	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp.	LK	709	6.99
+ND00437	12.56	9.51	1.7925	Dairy_and_Egg	Egg	Fresh	50g=1 large / 56g=1 extra large	PB	600	2.99
+ND01173	25.82	18.05	1.8175	Meats	Pork	Null	"85g=3 oz / 75g=1 chop, excluding refuse (yield from 1 raw chop, with refuse, weighing 113 g)"	SW	621.421546	5.67
+ND01457	13.61	1.01	1.8675	Seafood	Shellfish	Shrimp	6g=1 medium / 5g=1 small	PB	680	14.99
+ND01172	25.07	17.69	1.8775	Meats	Pork	Null	"85g=3 oz / 185g=1 steak, without refuse (Yield from 1 cooked steak, with refuse, weighing 249g)"	PB	1782.618	13.72
+ND01194	24.10714286	1.339285714	1.897321429	Meats	Poultry	Ground_Turkey	4 oz.	PB	589.67	7.69
+ND00997	30.76923077	53.84615385	1.923076923	Meats	Bacon_and_Sausage	Pork_Bacon	1 fried slice	WD	1360	15.99
+ND01296	0	84.61538462	1.923076923	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp	SW	532	2.74
+ND01049	27	17.36	1.94	Meats	Beef	Ground	85g=3 oz / g=	PB	508.023454	5.25
+ND01213	30.13	2.08	1.94	Meats	Poultry	Turkey_meat	1 serving = 85g	PB	1362	12.19
+ND01216	27.71	6.04	1.95	Meats	Poultry	Turkey_meat	85g=1 serving / g=	PB	1279.13048	9.28
+ND01057	26.58	16.76	1.96	Meats	Beef	Steak	"85g=3 oz / 236g=1 steak,  (yield from 297 g raw meat)"	PB	454	8.99
+ND00958	21.56862745	2.941176471	1.960784314	Meats	Bacon_and_Sausage	Pork_Bacon	3 slices	PB	170	3.99
+ND00450	12	17	2	Dairy_and_Egg	Egg	Liquid	100 g	I	N/A	N/A
+ND01114	12	30	2	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	396	5.99
+ND01164	16	10	2	Meats	Luncheon_Meats	Turkey	4 slices	PB	454	5.99
+ND01423	25	1.19047619	2.083333333	Seafood	Finfish	Grouper	.66 fillet cooked (3 oz)	PB	340	14.99
+ND01434	27.38095238	10.71428571	2.083333333	Seafood	Finfish	Salmon	about .66 fillet cooked (3oz)	PB	340	14.99
+ND00744	73	1.4	2.1	Formulas	Protein	Null	100 g of powder	I	900	96
+ND00103	9.85915493	5.633802817	2.112676056	Baby_Foods	Baby_Meats	Stage_1	1 jar	WD	71	1.19
+ND01644	0.59	0.16	2.16	Vegetables	Green	Cucumber	"1 cup pared, chopped = 133g"	PB	340	0.75
+ND00441	8.695652174	0	2.173913043	Dairy_and_Egg	Egg	Liquid	3 tbsp	PB	425	3
+ND01191	31.02	3.57	2.1975	Meats	Poultry	Chicken_Breast	"140g=1 cup, chopped or diced / 52g=1 unit,  (yield from 1 lb ready-to-cook chicken)"	PB	811.930342	8.4
+ND01664	1.35	0.22	2.23	Vegetables	Green	lettuce	"1 cup, shredded or chopped = 55g"	PB	544.311	2.29
+ND01006	14.28571429	30.35714286	2.232142857	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked portion	PB	453	4.49
+ND01012	14.28571429	30.35714286	2.232142857	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked portion	PB	453	4.49
+ND01013	14.28571429	30.35714286	2.232142857	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked portion	PB	453	4.49
+ND01014	14.28571429	30.35714286	2.232142857	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked portion	PB	453	4.49
+ND01015	17.85714286	26.78571429	2.232142857	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked	PB	453	3.69
+ND01016	17.85714286	26.78571429	2.232142857	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked	PB	453	3.69
+ND01071	12.5	23.21428571	2.232142857	Meats	Luncheon_Meats	Bologna	2 oz. (56 g)	I	454	7.39
+ND01072	12.5	23.21428571	2.232142857	Meats	Luncheon_Meats	Bologna	2 oz. (56 g)	I	454	7.19
+ND01151	16.07142857	1.785714286	2.232142857	Meats	Luncheon_Meats	Turkey	2 oz	PB	454	6.99
+ND01099	12	7	2.25	Meats	Luncheon_Meats	Hot_Dog	1 link	PB	397	5.79
+ND00439	12.58	10.61	2.2975	Dairy_and_Egg	Egg	Fresh	"136g=1 cup, chopped / 8.5g=1 tbsp"	I	N/A	2.99
+ND01728	9.411764706	4.117647059	2.352941176	Vegetables	Processed	Soy products	3 oz.	PB	397	2.99
+ND01617	1.587301587	0	2.380952381	Vegetables	Green	Asparagus	5 spears	PB	425	3.25
+ND01863	4.761904762	2.976190476	2.380952381	Vegetables	Processed	Soy products	3 oz	EO	340	2.19
+ND01621	1.62601626	0	2.43902439	Vegetables	Green	Asparagus	3 spears	PB	538	4.39
+ND00110	14.08450704	9.85915493	2.464788732	Baby_Foods	Baby_Meats	Stage_3	"1 jar, drained"	PB 	71	1.59
+ND01687	2.479338843	0.41322314	2.479338843	Vegetables	Green	Spinach	0.5 cup	WD	383	1.19
+ND01028	12	38	2.5	Meats	Bacon_and_Sausage	Prepared_Sausage	1 patty 	SW	1000	6.54
+ND01622	1.666666667	0	2.5	Vegetables	Green	Asparagus	0.5 cup	PB	411	2.23
+ND01623	1.666666667	0	2.5	Vegetables	Green	Asparagus	0.5 cup	WD	411	1.89
+ND01624	1.666666667	0	2.5	Vegetables	Green	Asparagus	0.5 cup	WD	425	2.89
+ND01625	1.680672269	0	2.521008403	Vegetables	Green	Asparagus	0.5 cup	PB	297	2.09
+ND01433	23.80952381	4.166666667	2.529761905	Seafood	Finfish	Salmon	.66 fillet cooked (3 oz)	PB	340	12.99
+ND01030	11.86440678	40.6779661	2.542372881	Meats	Bacon_and_Sausage	Prepared_Sausage	3 links	PB	198	2.69
+ND00438	9.99	10.98	2.555	Dairy_and_Egg	Egg	Fresh	61g=1 large / 13.7g=1 tbsp	I	N/A	2.99
+ND01477	3.15	0.64	2.65	Spices_and_Herbs	Seasonings	Null	"2g=5 leaves / 5.3g=2 tbsp, chopped"	I	8	4.28
+ND00471	4.424778761	1.327433628	2.654867257	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	452	3
+ND00470	4.424778761	1.327433628	2.654867257	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	453	3
+ND01726	0.884955752	0.442477876	2.654867257	Vegetables	Processed	Soy products	4 oz. 	WD	226	1.99
+ND01130	17.85714286	46.42857143	2.678571429	Meats	Luncheon_Meats	Pepperoni	14 slices	SW	170	2.98
+ND01131	17.85714286	46.42857143	2.678571429	Meats	Luncheon_Meats	Pepperoni	1 oz	PB	142	3.99
+ND01442	19.64285714	0	2.678571429	Seafood	Finfish	Tuna	about 0.25 cup drained (2 oz)	PB	340	2.99
+ND00424	2.1	36	2.7	Dairy_and_Egg	Cream	Null	N/A	I	500	N/A
+ND00446	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp	PB	908	3.99
+ND00447	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp	PB	397	2.79
+ND00445	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp	PB	454	3
+ND00444	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp	PB	454	3
+ND00449	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp	SW	907	4.48
+ND00448	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp	SW	907	4.48
+ND00443	10.86956522	0	2.717391304	Dairy_and_Egg	Egg	Liquid	3 tbsp 	PB	460	3
+ND00430	12	9	2.75	Dairy_and_Egg	Egg	Fresh	1 egg	PB	900	2.99
+ND01161	16.66666667	3.703703704	2.777777778	Meats	Luncheon_Meats	Turkey	6 slice	PB	198.446662	4.29
+ND00425	2.05	37	2.79	Dairy_and_Egg	Cream	Null	"120g=1 cup,  whipped / 238g=1 cup, fluid (yields 2 cups whipped)"	PB	473	3.45
+ND01189	22.53521127	2.816901408	2.816901408	Meats	Poultry	Chicken_Breast	0.5 cup	SW	255	3.84
+ND01190	22.53521127	2.816901408	2.816901408	Meats	Poultry	Chicken_Breast	0.5 cup	SW	255	3.84
+ND01729	8.450704225	4.225352113	2.816901408	Vegetables	Processed	Soy products	2.5 oz	PB	283	3.99
+ND01162	14.51612903	4.838709677	2.822580645	Meats	Luncheon_Meats	Turkey	62 g (3 slices)	PB	227	3.49
+ND00720	15.90909091	75	2.840909091	Formulas	Fat	Null	1 package	I	1056	44.99
+ND00463	2.07	19.73	2.88	Dairy_and_Egg	Sour_Cream	Null	12g=1 tbsp / 230g=1 cup	I	N/A	0.99
+ND01042	19.64285714	9.821428571	2.901785714	Meats	Beef	Ground	4 oz (112g)	PB	530.7	8.18
+ND01092	17.85714286	2.678571429	2.901785714	Meats	Luncheon_Meats	Ham	4 slices (56g)	PB	227	4.39
+ND01125	17.85714286	2.678571429	2.901785714	Meats	Luncheon_Meats	Pastrami	2 oz	PB	198	4.49
+ND01427	17.85714286	2.678571429	2.901785714	Seafood	Finfish	Salmon	about 0.25 cup drained (2oz)	PB	142	2.29
+ND01445	23.21428571	6.25	2.901785714	Seafood	Finfish	Tuna	about 0.25 cup drained	PB	142	1.67
+ND01023	13.23529412	35.29411765	2.941176471	Meats	Bacon_and_Sausage	Prepared_Sausage	3 links	PB	272	4.49
+ND01641	0.69	0.17	2.97	Vegetables	Green	Celery	1 cup chopped = 101g	PB	690	1.99
+ND01662	0.9	0.14	2.97	Vegetables	Green	lettuce	1 cup shredded = 72g	PB	800	2.49
+ND01727	4.395604396	2.197802198	3.021978022	Vegetables	Processed	Soy products	.2 package	PB	454	2.99
+ND01690	1.21	0.32	3.11	Vegetables	Green	Zucchini	"124g=1 cup, chopped / 113g=1 cup, sliced"	PB	454	1.69
+ND01798	2.71	0.4	3.11	Vegetables	Yellow	Squash	16g=1 large / 11g=1 medium	PB	454	1.69
+ND01009	15.625	28.125	3.125	Meats	Bacon_and_Sausage	Prepared_Sausage	1 skillet cooked patty	PB	340	3.99
+ND01136	21.42857143	26.78571429	3.125	Meats	Luncheon_Meats	Salami	8 slices	PB	113	4.49
+ND00423	2.1	35	3.15	Dairy_and_Egg	Cream	Null	N/A	I	1000	N/A
+ND01361	4.838709677	32.25806452	3.225806452	Sauces_Soups_Condiments_Dressing	Sauces	Alfredo	0.25 cup	PB	425	5.99
+ND01618	1.612903226	0	3.225806452	Vegetables	Green	Asparagus	0.5 cup (undrained)	SW	298	1.68
+ND01619	1.612903226	0	3.225806452	Vegetables	Green	Asparagus	0.5 cup (undrained)	PB	340	3.19
+ND01620	1.612903226	0	3.225806452	Vegetables	Green	Asparagus	0.5 cup (undrained)	PB	425	3.19
+ND01768	3.09	0.34	3.26	Vegetables	White_Brown_Black	Mushroom	"70g=1 cup, pieces or slices / 96g=1 cup, whole"	PB	454	3.69
+ND00388	26.08695652	30.43478261	3.260869565	Dairy_and_Egg	Cheese	Muenster	1 Slice	PB	227	2.5
+ND01663	1.23	0.3	3.29	Vegetables	Green	lettuce	1 cup shredded = 47g	PB	660	1.99
+ND01646	0.826446281	0	3.305785124	Vegetables	Green	Green_Beans	0.5 cup	PB	411	1.43
+ND01647	0.826446281	0	3.305785124	Vegetables	Green	Green_Beans	0.5 cup (undrained)	PB	411	1.69
+ND01648	0.826446281	0	3.305785124	Vegetables	Green	Green_Beans	0.5 cup	WD	411	1.49
+ND01649	0.826446281	0	3.305785124	Vegetables	Green	Green_Beans	0.5 cup (undrained)	PB	411	1.43
+ND01650	0.826446281	0	3.305785124	Vegetables	Green	Green_Beans	0.5 cup	PB	411	1.49
+ND01651	0.826446281	0	3.305785124	Vegetables	Green	Green_Beans	0.5 cup 	PB	411	1.69
+ND00363	6.666666667	33.33333333	3.333333333	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	PB	227	3.99
+ND01918	20	23.33333333	3.333333333	Dairy_and_Egg	Cheese	Mozzarella	1 inch cube 	PB	453	4.69
+ND00375	23.33333333	20	3.333333333	Dairy_and_Egg	Cheese	Mozzarella	1 in. cube (1oz)	PB	226	2.69
+ND00464	3.333333333	20	3.333333333	Dairy_and_Egg	Sour_Cream	Null	2 tbsp	PB	227	1.39
+ND01129	20	46.66666667	3.333333333	Meats	Luncheon_Meats	Pepperoni	16 slices	PB	142	3.49
+ND01326	3.333333333	63.33333333	3.333333333	Sauces_Soups_Condiments_Dressing	Dressings	Caesar	2 Tbsp	SW	473	2.36
+ND01325	3.333333333	56.66666667	3.333333333	Sauces_Soups_Condiments_Dressing	Dressings	Caesar	2 Tbsp	SW	267	1.48
+ND01327	0	36.66666667	3.333333333	Sauces_Soups_Condiments_Dressing	Dressings	Greek	2 Tbsp	SW	473	2.36
+ND01345	0	66.66666667	3.333333333	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	PB	473	3.53
+ND01356	0	0	3.333333333	Sauces_Soups_Condiments_Dressing	Dressings	White	1 tbsp	PB	473	0.99
+ND01379	13.33333333	0	3.333333333	Sauces_Soups_Condiments_Dressing	Sauces	Soy	1 Tbsp	PB	148	2.45
+ND01652	0.833333333	0	3.333333333	Vegetables	Green	Green_Beans	0.5 cup	PB	411	1.39
+ND01653	0.833333333	0	3.333333333	Vegetables	Green	Green_Beans	0.5 cup	PB	411	1.39
+ND01654	0.833333333	0	3.333333333	Vegetables	Green	Green_Beans	0.5 cup	PB	411	1.25
+ND01655	0.833333333	0	3.333333333	Vegetables	Green	Green_Beans	0.5 cup	WD	411	0.79
+ND01797	1.21	0.18	3.35	Vegetables	Yellow	Squash	"113g=1 cup, sliced / 323g=1 large"	PB	454	1.69
+ND00462	3.389830508	15.25423729	3.389830508	Beverages	Milk_Substitutes	Coconut Milk	2 oz	SW	400	1.74
+ND01755	0.68	0.1	3.4	Vegetables	Red	Radishes	"116g=1 cup, slices / 9g=1 large,  (1"" to 1-0.25"" dia)"	PB	128	0.99
+ND00459	0.416666667	1.041666667	3.489583333	Beverages	Milk_Substitutes	Almond Milk	1 cup	SW	946	1.97
+ND00998	17.54385965	8.771929825	3.50877193	Meats	Bacon_and_Sausage	Prepared_Sausage	0.5 cup (57 g)	PB	272	4.49
+ND01102	10.52631579	15.78947368	3.50877193	Meats	Luncheon_Meats	Hot_Dog	1 link	PB	454	3.49
+ND01113	12.28070175	28.07017544	3.50877193	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	907	8.29
+ND00108	12.67605634	8.450704225	3.521126761	Baby_Foods	Baby_Meats	Stage_3	"1 jar, drained"	PB	71	1.59
+ND00109	12.67605634	8.450704225	3.521126761	Baby_Foods	Baby_Meats	Stage_3	"1 jar, drained"	PB 	71	1.59
+ND01735	12.94117647	5.882352941	3.529411765	Vegetables	Processed	Soy products	3 oz.	PB	227	2.99
+ND01730	10.58823529	4.705882353	3.529411765	Vegetables	Processed	Soy products	3 oz.	PB	397	2.99
+ND01385	0.884955752	6.194690265	3.539823009	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	680	8.99
+ND00323	21.42857143	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Blue	0.25 Cup	PB	141	2.99
+ND00324	21.42857143	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Blue	1 oz. 	PB	156	2.99
+ND00335	25	32.14285714	3.571428571	Dairy_and_Egg	Cheese	Cheddar	1 oz	PB	454	6.29
+ND00334	25	32.14285714	3.571428571	Dairy_and_Egg	Cheese	Cheddar	0.25 cup	PB	227	3.89
+ND00348	25	32.14285714	3.571428571	Dairy_and_Egg	Cheese	Colby-Jack	1 oz.	PB	454	6.29
+ND00368	17.85714286	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Feta	0.25 cup	PB	113	3.19
+ND00371	21.42857143	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Gruyere	1 oz.	PB	226	6.49
+ND00372	25	32.14285714	3.571428571	Dairy_and_Egg	Cheese	Havarti	1 oz.	PB	227	3
+ND00376	25	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	0.25 cup	PB	226	4.29
+ND00377	21.42857143	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	1 oz (28 g)	PB	453	4.99
+ND00374	21.42857143	17.85714286	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	1 oz	PB	453	4.99
+ND00378	28.57142857	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	1 oz	PB	227	3.69
+ND00379	28.57142857	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	0.25 cup	PB	227	3.89
+ND00380	25	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	1 stick	PB	340	3.5
+ND00382	28.57142857	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Mozzarella	1 piece	PB	340	4.99
+ND01904	21.42857143	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Other	1 oz	SW	811.930342	10.35
+ND00397	21.42857143	21.42857143	3.571428571	Dairy_and_Egg	Cheese	Other	1 piece	SW	340	2.98
+ND00399	21.42857143	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Other	0.25 cup	PB	226	4.29
+ND00398	25	25	3.571428571	Dairy_and_Egg	Cheese	Other	0.25 cup	PB	227	3.89
+ND00402	32.14285714	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Parmesan	0.25 cup	PB	141	4.29
+ND00403	32.14285714	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Parmesan	0.25 cup	PB	198	5.29
+ND00416	25	32.14285714	3.571428571	Dairy_and_Egg	Cheese	Swiss	1 oz.	PB	227	3
+ND00417	25	32.14285714	3.571428571	Dairy_and_Egg	Cheese	Swiss	1 oz.	I	453	10.79
+ND00411	28.57142857	28.57142857	3.571428571	Dairy_and_Egg	Cheese	Swiss	1 oz.	PB	227	3.69
+ND00746	85.71428571	0	3.571428571	Formulas	Protein	Null	1 unpacked level scoop or 7g packet	I	1362	79.99
+ND01134	14.28571429	16.07142857	3.571428571	Meats	Luncheon_Meats	Salami	1 slice	PB	227	4.99
+ND01135	14.28571429	14.28571429	3.571428571	Meats	Luncheon_Meats	Salami	1 slice	PB	454	2.49
+ND01145	12.5	28.57142857	3.571428571	Meats	Luncheon_Meats	Spam	2 oz	SW	340	2.5
+ND01144	12.5	28.57142857	3.571428571	Meats	Luncheon_Meats	Spam	2 oz	WD	198	2.29
+ND01150	16.07142857	1.785714286	3.571428571	Meats	Luncheon_Meats	Turkey	2 oz	PB	454	6.99
+ND01301	0	85.71428571	3.571428571	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp	PB	444	2.99
+ND01351	3.571428571	67.85714286	3.571428571	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	PB	354	3.69
+ND01682	2.380952381	0	3.571428571	Vegetables	Green	Spinach	3/4 cup frozen	SW	255	1.88
+ND01716	0	0	3.571428571	Vegetables	Processed	Pickles	3 pickles (1 oz)	PB	473	2.99
+ND01717	0	0	3.571428571	Vegetables	Processed	Pickles	about 1 spear (1 oz)	PB	473	2.29
+ND01718	0	0	3.571428571	Vegetables	Processed	Pickles	about 1 0.5 slices (1oz)	PB	473	2.99
+ND01796	1.204819277	0	3.614457831	Vegetables	Yellow	Squash	.66 cup	PB 	425	1.99
+ND00410	8.064516129	14.51612903	3.629032258	Dairy_and_Egg	Cheese	Ricotta	0.25 cup	WM	425	1.94
+ND01645	0.65	0.11	3.63	Vegetables	Green	Cucumber	0.5 cup slices = 52g	PB	340	0.75
+ND01689	2.86	0.39	3.63	Vegetables	Green	Spinach	30g=1 cup / 340g=1 bunch	PB	254	2
+ND01007	18.18181818	25.45454545	3.636363636	Meats	Bacon_and_Sausage	Prepared_Sausage	3 skillet-cooked links	PB	340	3.99
+ND01475	2.13	0.52	3.67	Spices_and_Herbs	Seasonings	Null	9 sprigs=20 g	PB	8.5	1.49
+ND01027	16.17647059	35.29411765	3.676470588	Meats	Bacon_and_Sausage	Prepared_Sausage	2 patties	SW	272	3.5
+ND00961	14.81481481	12.96296296	3.703703704	Meats	Bacon_and_Sausage	Pork_Bacon	3 links	PB	181	2.19
+ND01137	25.92592593	29.62962963	3.703703704	Meats	Luncheon_Meats	Salami	3 slices	PB	227	5.89
+ND01455	30.95238095	1.785714286	3.720238095	Seafood	Finfish	Tuna	about .66 steak cooked (3oz)	PB	340	6.99
+ND01767	2.11	0.35	3.87	Vegetables	White_Brown_Black	Mushroom	1 cup diced = 86g	LK	453.592	4.99
+ND01626	2.2	0.12	3.88	Vegetables	Green	Asparagus	"134g=1 cup / 12g=1 spear,  small (5"" long or less)"	PB	454	3.49
+ND01760	0.88	0.2	3.89	Vegetables	Red	Tomato	"149g=1 cup,  cherry tomatoes / 180g=1 cup, chopped or sliced"	PB	454	2.49
+ND00409	11.11111111	12.6984127	3.968253968	Dairy_and_Egg	Cheese	Ricotta	0.25 cup	PB	907	3.99
+ND00549	10	0	4	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND00586	10	0	4	Dairy_and_Egg	Yogurt	Plain	1 container	PB	150	1.67
+ND01165	16	10	4	Meats	Luncheon_Meats	Turkey	4 slices	PB	454	5.99
+ND01627	2.4	0.22	4.11	Vegetables	Green	Asparagus	"90g=.5 cup / 60g=4 spears,  (0.5"" base)"	PB	454	3.49
+ND01763	1.84	0.45	4.11	Vegetables	White_Brown_Black	Cauliflower	0.5 cup = 62g	PB	925	3.49
+ND00339	25	33.33333333	4.166666667	Dairy_and_Egg	Cheese	Cheddar	1 stick	PB	283	3.99
+ND00369	13.33333333	20	4.166666667	Dairy_and_Egg	Cheese	Feta	1 oz.	PB	227	4.99
+ND00625	0	100	4.166666667	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Shortening	1 tbsp	WD	567	3.89
+ND00626	0	100	4.166666667	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Shortening	1 tbsp	WD	1360	5.99
+ND00628	0	100	4.166666667	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Shortening	1 tbsp	WD	567	3.89
+ND00627	0	100	4.166666667	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Shortening	1 tbsp	SW	1360	4.98
+ND00988	33.33333333	38.88888889	4.166666667	Meats	Bacon_and_Sausage	Pork_Bacon	2 pan fried slices	PB	454	6.99
+ND00992	33.33333333	38.88888889	4.166666667	Meats	Bacon_and_Sausage	Pork_Bacon	2 skillet cooked slices	PB	454	6.99
+ND01725	0	0	4.166666667	Vegetables	Processed	Sauerkraut	2 tbsp.	WD	397	1
+ND00106	11.26760563	5.633802817	4.225352113	Baby_Foods	Baby_Meats	Stage_2	1 jar	PB	71	1.05
+ND01002	17.85714286	8.035714286	4.241071429	Meats	Bacon_and_Sausage	Prepared_Sausage	4 links (56 g)	PB	141	2.69
+ND01634	2.127659574	0	4.255319149	Vegetables	Green	Broccoli	1 cup frozen	WD	340	2.19
+ND00257	0.613496933	0	4.294478528	Beverages	Juice	Tomato Juice	8 fl oz.	PB	978	2.65
+ND01630	2.150537634	0	4.301075269	Vegetables	Green	Broccoli	1 0.25 cup	SW	340	1.88
+ND01757	0.826446281	0	4.338842975	Vegetables	Red	Tomato	0.5 cup	SW	411	0.72
+ND01759	0.826446281	0	4.338842975	Vegetables	Red	Tomato	0.5 cup	PB	794	1.59
+ND01478	3.27	0.73	4.35	Spices_and_Herbs	Seasonings	Null	"3g=1 tbsp, chopped / 1g=1 tsp, chopped"	PB	28	1.99
+ND01777	1.53	0.24	4.35	Vegetables	White_Brown_Black	Turnip	156g=1 cup / g=	PB	454	1.69
+ND01766	0.833333333	0	4.375	Vegetables	White_Brown_Black	Mushroom	0.5 cup	PB	113	1.55
+ND01792	0.833333333	0	4.375	Vegetables	Yellow	Squash	0.5 cup	SW	411	0.98
+ND01793	0.833333333	0	4.375	Vegetables	Yellow	Squash	0.5 cup	WD	411	1.5
+ND01363	0	0	4.409171076	Sauces_Soups_Condiments_Dressing	Sauces	Barbeque	2 Tbsp	PB	680	2.51
+ND00351	10.61946903	4.424778761	4.424778761	Dairy_and_Egg	Cheese	Cottage_Cheese	0.5 cup	WM	680	2.88
+ND01107	11.11111111	17.77777778	4.444444444	Meats	Luncheon_Meats	Hot_Dog	1 link	PB	454	5.79
+ND01103	11.11111111	15.55555556	4.444444444	Meats	Luncheon_Meats	Hot_Dog	1 link	PB	454	3.29
+ND00347	21.42857143	32.14285714	4.464285714	Dairy_and_Egg	Cheese	Colby-Jack	1 oz.	PB	227	3.69
+ND00401	21.42857143	32.14285714	4.464285714	Dairy_and_Egg	Cheese	Other	0.25 cup	PB	227	3.89
+ND01073	10.71428571	25	4.464285714	Meats	Luncheon_Meats	Bologna	1 slice	PB	453.592	2.59
+ND01714	0	0	4.464285714	Vegetables	Processed	Pickles	About 1 pickle (1 oz)	PB	710	2.99
+ND01026	12.12121212	36.36363636	4.545454545	Meats	Bacon_and_Sausage	Prepared_Sausage	1 patty	PB	198	2.69
+ND00953	17.07317073	25.6097561	4.573170732	Meats	Bacon_and_Sausage	Fresh_Sausage_Link	82 g (1 grilled link)	PB	538	3.96
+ND01111	12.24489796	26.53061224	4.591836735	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	340	6.29
+ND01693	0.86	0.17	4.64	Vegetables	Multi	Peppers	1 tbsp = 9.3g	PB	453.592	2.49
+ND00321	19.04761905	33.33333333	4.761904762	Dairy_and_Egg	Cheese	American	1 slice	PB	340	5.49
+ND00322	19.04761905	33.33333333	4.761904762	Dairy_and_Egg	Cheese	American	1 slice	PB	340	3.5
+ND00414	28.57142857	28.57142857	4.761904762	Dairy_and_Egg	Cheese	Swiss	1 slice	PB	170	2.99
+ND01629	1.19047619	0	4.761904762	Vegetables	Green	Broccoli	3 oz (3 spears)	PB	255	1.99
+ND01738	16.66666667	4.761904762	4.761904762	Vegetables	Processed	Soy products	1 link	PB	340	3.99
+ND00455	3.15	3.27	4.78	Dairy_and_Egg	Milk	Plain	244g=1 cup / 15g=1 tbsp	I	N/A	2.63
+ND01018	16.07142857	30.35714286	4.910714286	Meats	Bacon_and_Sausage	Prepared_Sausage	2oz cooked portion	PB	453	4.49
+ND01019	16.07142857	30.35714286	4.910714286	Meats	Bacon_and_Sausage	Prepared_Sausage	2 oz cooked	PB	453.6	4.49
+ND01087	17.85714286	1.785714286	4.910714286	Meats	Luncheon_Meats	Ham	2 oz.	I	454	10.99
+ND01089	17.85714286	1.785714286	4.910714286	Meats	Luncheon_Meats	Ham	2 oz.	I	454	10.99
+ND01158	17.85714286	1.785714286	4.910714286	Meats	Luncheon_Meats	Turkey	56 g (2 oz)	PB	8	4.99
+ND01359	3.278688525	16.39344262	4.918032787	Sauces_Soups_Condiments_Dressing	Sauces	Alfredo	0.25 cup	PB	425	2.99
+ND01390	1.639344262	0	4.918032787	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup	PB	425	1.25
+ND01033	10.41666667	9.375	4.947916667	Meats	Bacon_and_Sausage	Vienna_Sausage	48 g (3 sausages)	PB	135	0.73
+ND01094	16.98113208	2.830188679	4.952830189	Meats	Luncheon_Meats	Ham	5 slices	PB	170	3.49
+ND01764	1.92	0.28	4.97	Vegetables	White_Brown_Black	Cauliflower	1 cup chopped = 107g	PB	925	3.49
+ND00364	5	35	5	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	PB	227	2.35
+ND00365	5	35	5	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	WD	227	2.39
+ND01838	4.583333333	0.833333333	5	Dairy_and_Egg	Milk	Kefir	1 cup	SW	944	2.96
+ND00454	4.583333333	0.833333333	5	Dairy_and_Egg	Milk	Kefir	1 cup	PB	473	2.59
+ND00456	3.333333333	3.333333333	5	Dairy_and_Egg	Milk	Plain	1 cup	PB	1890	2.63
+ND00457	3.333333333	3.333333333	5	Dairy_and_Egg	Milk	Plain	1 cup	SW	946	2.68
+ND00566	10	0	5	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND01324	0	53.33333333	5	Sauces_Soups_Condiments_Dressing	Dressings	Blue_cheese	2 Tbsp	SW	473	2.36
+ND01899	1.666666667	1.666666667	5	Sauces_Soups_Condiments_Dressing	Sauces	Other	0.25 cup	PB	340	2.09
+ND01368	1.666666667	1.666666667	5	Sauces_Soups_Condiments_Dressing	Sauces	Other	0.25 cup	PB	298	1.39
+ND01392	1.666666667	7.5	5	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	680	6.19
+ND01615	0.769230769	0	5	Vegetables	Green	Artichoke	3 pieces with liquid	PB	396	3.19
+ND01775	0.71	0.08	5.06	Vegetables	White_Brown_Black	Turnip	"156g=1 cup, cubes / 230g=1 cup, mashed"	PB	454	1.69
+ND01039	10.16949153	25.42372881	5.084745763	Meats	Bacon_and_Sausage	Vienna_Sausage	4 links	PB	130	0.71
+ND00587	3.555555556	3.555555556	5.111111111	Dairy_and_Egg	Yogurt	Plain	1 cup 	PB	907	3
+ND00350	9.401709402	4.273504274	5.128205128	Dairy_and_Egg	Cheese	Cottage_Cheese	0.5 cup 	PB	453	2.85
+ND00352	11.60714286	4.464285714	5.133928571	Dairy_and_Egg	Cheese	Cottage_Cheese	0.5 cup	PB	454	2.57
+ND00436	12.6984127	7.936507937	5.158730159	Dairy_and_Egg	Egg	Fresh	1 egg	PB	756	3.05
+ND00231	0	0	5.208333333	Beverages	Juice	Craberry Juice	1 cup	PB	1890	3.79
+ND00320	21.05263158	31.57894737	5.263157895	Dairy_and_Egg	Cheese	American	1 slice	PB	454	5.69
+ND00329	21.05263158	31.57894737	5.263157895	Dairy_and_Egg	Cheese	Cheddar	1 slice	PB	226	4.29
+ND00957	13.63636364	30.3030303	5.303030303	Meats	Bacon_and_Sausage	Fresh_Sausage_Link	66g (1 link)	PB	396	3.99
+ND00584	7.079646018	9.734513274	5.309734513	Dairy_and_Egg	Yogurt	Greek	1 cup	PB	907	3.99
+ND01384	0.884955752	6.194690265	5.309734513	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	680	5.99
+ND00551	8	0	5.333333333	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.2
+ND00557	8	0	5.333333333	Dairy_and_Egg	Yogurt	Greek	1 container	SW	150	1
+ND00562	8	0	5.333333333	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.2
+ND01035	9.333333333	13.33333333	5.333333333	Meats	Bacon_and_Sausage	Vienna_Sausage	4 sausages	WD	130	0.89
+ND00340	21.42857143	35.71428571	5.357142857	Dairy_and_Egg	Cheese	Cheddar	1 oz.(1/8 pkg)	PB	226	4.29
+ND00341	21.42857143	35.71428571	5.357142857	Dairy_and_Egg	Cheese	Cheddar	1 oz.(1/8 pkg)	PB	226	4.29
+ND00342	21.42857143	35.71428571	5.357142857	Dairy_and_Egg	Cheese	Cheddar	3 slices	PB	141	4.29
+ND00948	10.71428571	28.57142857	5.357142857	Meats	Bacon_and_Sausage	Fresh_Sausage_Link	2 oz (56 g)	PB	340	3.33
+ND00950	12.5	26.78571429	5.357142857	Meats	Bacon_and_Sausage	Fresh_Sausage_Link	2 oz (56 g)	PB	340	3.99
+ND00949	10.71428571	28.57142857	5.357142857	Meats	Bacon_and_Sausage	Fresh_Sausage_Link	2 oz (56 g)	PB	396	3.79
+ND00951	10.71428571	28.57142857	5.357142857	Meats	Bacon_and_Sausage	Fresh_Sausage_Link	2 oz (56 g)	PB	396	3.79
+ND01076	10.71428571	28.57142857	5.357142857	Meats	Luncheon_Meats	Bologna	28 g (1 slice)	PB	340.194	4.99
+ND01157	17.85714286	1.785714286	5.357142857	Meats	Luncheon_Meats	Turkey	2 oz	PB	227	4.49
+ND01149	16.07142857	1.785714286	5.357142857	Meats	Luncheon_Meats	Turkey	2 oz	PB	227	3.99
+ND01758	0.826446281	0	5.371900826	Vegetables	Red	Tomato	0.5 cup (about 2 small tomatoes)	PB	411	1.53
+ND00232	0	0	5.416666667	Beverages	Juice	Craberry Juice	1 cup	PB	1890	3.79
+ND00233	0	0	5.416666667	Beverages	Juice	Craberry Juice	1 cup	PB	1890	3.79
+ND00256	0.416666667	0	5.416666667	Beverages	Juice	Orange Juice	240 mL	PB	1750	3.99
+ND01699	0.833333333	0	5.416666667	Vegetables	Orange	Carrot	0.5 cup 	PB	411	0.8
+ND01643	3.02	0.61	5.42	Vegetables	Green	Collard	1 cup = 36g	PB	454	2.99
+ND01739	17.10526316	4.605263158	5.427631579	Vegetables	Processed	Soy products	1 link	PB	383	3.99
+ND00104	11.26760563	3.521126761	5.457746479	Baby_Foods	Baby_Meats	Stage_2	1 jar	PB	71	1.05
+ND01118	12	30	5.5	Meats	Luncheon_Meats	Hot_Dog	1 link	PB	397	5.99
+ND01638	1.27	0.06	5.51	Vegetables	Green	Cabbage	0.5 cup shredded = 75g	PB	454	0.79
+ND00105	9.85915493	5.633802817	5.633802817	Baby_Foods	Baby_Meats	Stage_2	1 jar	PB	71	1.05
+ND01712	2.666666667	0	5.666666667	Vegetables	Other	Null	3/4 cup (75g)	SW	454	1.44
+ND01358	1.639344262	13.1147541	5.737704918	Sauces_Soups_Condiments_Dressing	Sauces	Alfredo	0.25 cup	PB	453	2.69
+ND00166	0.884955752	0	5.752212389	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.61
+ND00614	0	100	5.769230769	Fats_and_Oils	Fat_Other	Lard	1 tbsp	SW	454	1.98
+ND01746	25	1.923076923	5.769230769	Vegetables	Processed	Soy products	4 slices	WD	156	3.49
+ND01639	1.28	0.1	5.8	Vegetables	Green	Cabbage	1 cup chopped = 89g	PB	454	0.79
+ND00947	14.28571429	8.928571429	5.803571429	Meats	Bacon_and_Sausage	Prepared_Sausage	2 oz (56 g)	PB	368	3.79
+ND01097	17.85714286	5.357142857	5.803571429	Meats	Luncheon_Meats	Ham	1 slice	PB	340	3.29
+ND01308	3.74	3.34	5.83	Sauces_Soups_Condiments_Dressing	Condiments	Mustard	"5g=1 tsp,  or 1 packet / 249g=1 cup"	PB	397	1.19
+ND00460	0.416666667	1.041666667	5.833333333	Beverages	Milk_Substitutes	Almond Milk	1 cup	SW	946	1.97
+ND01748	0.98	0.18	5.88	Vegetables	Purple	Eggplant	"82g=1 cup, cubes / 458g=1 eggplant, peeled (yield from 1-0.25 lb)"	PB	454	1.99
+ND01700	0.840336134	0	5.882352941	Vegetables	Orange	Carrot	0.5 cup	SW	425	1.68
+ND00820	0	0	5.896226415	Fruits	Peaches	Other	1 cup	PB	424	2.67
+ND01382	0	0	5.952380952	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup	PB	227	0.89
+ND00476	8	0	6	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	150	1.13
+ND00482	8	0	6	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	150	1.13
+ND00550	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.2
+ND00552	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.2
+ND00553	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container	SW	150	1
+ND00554	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container	SW	150	1
+ND00556	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.2
+ND00558	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.2
+ND00560	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container	SW	150	1
+ND00561	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container	SW	150	1.18
+ND00563	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.2
+ND00564	8	0	6	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.2
+ND01631	2.197802198	0	6.043956044	Vegetables	Green	Broccoli	1 0.25 cup	WD	357.2	2.79
+ND01694	0.99	0.3	6.085	Vegetables	Multi	Peppers	1 cup = 149 g chopped	PB	453.592	3.99
+ND00960	21.56862745	2.941176471	6.12745098	Meats	Bacon_and_Sausage	Pork_Bacon	3 slices	PB	170	4.59
+ND01778	2.247191011	0	6.179775281	Vegetables	White_Brown_Black	Turnip	1 cup	PB	425	1.89
+ND00245	0	0	6.25	Beverages	Juice	Mixed Juice	8 fl oz	PB	3780	2.39
+ND00994	25	41.66666667	6.25	Meats	Bacon_and_Sausage	Pork_Bacon	1 fried slice	PB	454	6.99
+ND01632	2.298850575	0	6.32183908	Vegetables	Green	Broccoli	1 cup	SW	340	0.98
+ND01684	2.298850575	0	6.32183908	Vegetables	Green	Spinach	1 cup 	WD	453	2
+ND01476	2.97	0.79	6.33	Spices_and_Herbs	Seasonings	Null	"60g=1 cup, chopped / 3.8g=1 tbsp"	I	1	4.48
+ND00107	9.85915493	8.450704225	6.338028169	Baby_Foods	Baby_Meats	Stage_2	1 jar	PB	71	1.05
+ND01776	0.9	0.1	6.43	Vegetables	White_Brown_Black	Turnip	"130g=1 cup, cubes / 183g=1 large"	PB	454	1.69
+ND01389	1.612903226	0	6.451612903	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup	PB	425	1.13
+ND01773	0.833333333	0	6.458333333	Vegetables	White_Brown_Black	Rutabaga	0.5 cup	PB	411	1.19
+ND01790	0.66	0.26	6.46	Vegetables	Yellow	Squash	155g=1 cup / g=	PB	454	1.29
+ND00790	0.4	0.29	6.48	Fruits	Citrus	Lemon	244g=1 cup / 15g=1 tbsp	I	N/A	2.49
+ND01707	1	0.1	6.5	Vegetables	Orange	Pumpkin	"116g=1 cup,  (1"" cubes) / g="	PB	454	1.29
+ND01756	0.81300813	0	6.504065041	Vegetables	Red	Tomato	0.5 cup	PB	411	0.95
+ND01391	1.639344262	0	6.557377049	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup	SW	227	0.33
+ND01105	10.52631579	15.78947368	6.578947368	Meats	Luncheon_Meats	Hot_Dog	1 link	PB	454	3.79
+ND01683	2.409638554	0	6.626506024	Vegetables	Green	Spinach	.33 cup	PB 	283	1.39
+ND01686	2.409638554	0	6.626506024	Vegetables	Green	Spinach	.33 cup	SW	283	1.32
+ND00165	0	0	6.637168142	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.61
+ND01635	2.82	0.37	6.64	Vegetables	Green	Broccoli	1 cup chopped = 91g	LK	453.592	2.49
+ND00169	1.666666667	0	6.666666667	Baby_Foods	Baby_Vegetables	Stage_2	0.25 cup	PB	120	1.09
+ND00361	3.333333333	30	6.666666667	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	SW	227	2.36
+ND00362	3.333333333	30	6.666666667	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	PB	227	2.39
+ND00649	0	93.33333333	6.666666667	Fats_and_Oils	Oil	Canola	1 tbsp.	PB	1420	3.95
+ND00652	0	93.33333333	6.666666667	Fats_and_Oils	Oil	Coconut	1 tbsp	PB	858	25.99
+ND00699	0	93.33333333	6.666666667	Fats_and_Oils	Oil	Sesame	1 tbsp	PB	185	4.19
+ND00707	0	93.33333333	6.666666667	Fats_and_Oils	Oil	Vegetable	1 tbsp	PB	1420	3.35
+ND00975	20	40	6.666666667	Meats	Bacon_and_Sausage	Pork_Bacon	2 pan fried slices	PB	340.5	6.69
+ND00978	26.66666667	40	6.666666667	Meats	Bacon_and_Sausage	Pork_Bacon	3 slices	PB	103	6.19
+ND01333	3.333333333	36.66666667	6.666666667	Sauces_Soups_Condiments_Dressing	Dressings	Italian	2 Tbsp	PB	473	3.53
+ND01337	0	16.66666667	6.666666667	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	473	3.53
+ND01348	3.333333333	36.66666667	6.666666667	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	SW	709	3.88
+ND01346	0	50	6.666666667	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	PB	473	3.53
+ND01360	1.666666667	5	6.666666667	Sauces_Soups_Condiments_Dressing	Sauces	Alfredo	0.25 cup	PB	425	2.87
+ND01408	0.833333333	5	6.666666667	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.43
+ND01870	0	10	6.666666667	Supplement	Omegas	Null	1 softgel	I	45	21.37
+ND01691	0	16.66666667	6.666666667	Vegetables	Multi	Olive	4 olives	PB	170	2.09
+ND00792	0.25	0.23	6.69	Fruits	Citrus	Lime	246g=1 cup / 30.8g=1 fl oz	I	N/A	2.49
+ND01088	16.07142857	1.785714286	6.696428571	Meats	Luncheon_Meats	Ham	2 oz.	I	454	9.89
+ND01159	16.07142857	1.785714286	6.696428571	Meats	Luncheon_Meats	Turkey	2 oz	PB	454	5.79
+ND00974	30.76923077	34.61538462	6.730769231	Meats	Bacon_and_Sausage	Pork_Bacon	2 fried slices	PB	454	6.49
+ND01386	1.587301587	1.587301587	6.746031746	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup 	SW	397	1.14
+ND00167	0.884955752	0	6.85840708	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WD	113	0.64
+ND00168	0.884955752	0	6.85840708	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WD	113	0.64
+ND01407	0.833333333	5.833333333	6.875	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.75
+ND00791	0.35	0.24	6.9	Fruits	Citrus	Lemon	244g=1 cup / 30.5g=1 fl oz	I	N/A	2.49
+ND01789	0.64	0.57	6.91	Vegetables	Yellow	Squash	"101g=1 cup, cubes / g="	PB	454	1.29
+ND00415	27.77777778	27.77777778	6.944444444	Dairy_and_Egg	Cheese	Swiss	1 slice	PB	198	3.49
+ND01658	1.83	0.22	6.97	Vegetables	Green	Green_Beans	1 cup = 100 g	PB	454	1.69
+ND01744	21.12676056	6.338028169	7.042253521	Vegetables	Processed	Soy products	1 Burger	PB	283	3.69
+ND00585	4.405286344	0	7.04845815	Dairy_and_Egg	Yogurt	Plain	1 cup	PB	907	3.69
+ND00336	25	32.14285714	7.142857143	Dairy_and_Egg	Cheese	Cheddar	0.25 cup	PB	226	4.49
+ND00381	25	17.85714286	7.142857143	Dairy_and_Egg	Cheese	Mozzarella	0.25 cup	PB	226	4.49
+ND00387	23.80952381	28.57142857	7.142857143	Dairy_and_Egg	Cheese	Muenster	1 Slice	PB	226	3.49
+ND00392	21.42857143	16.07142857	7.142857143	Dairy_and_Egg	Cheese	Other	1 oz.	PB	680	4.19
+ND01096	17.85714286	3.571428571	7.142857143	Meats	Luncheon_Meats	Ham	1 slice	WD	283	3.49
+ND01147	17.85714286	0	7.142857143	Meats	Luncheon_Meats	Turkey	1 slice (28 g)	WM	397	4.98
+ND01146	17.85714286	0	7.142857143	Meats	Luncheon_Meats	Turkey	1 slice (28 g)	SW	794	7.98
+ND01166	17.85714286	4.761904762	7.142857143	Meats	Pork	Null	3oz	PB	340	4.69
+ND01633	2.38	0.41	7.18	Vegetables	Green	Broccoli	0.5 cup chopped = 78g	LK	453.592	2.49
+ND00717	15.3	67.7	7.2	Formulas	Fat	Null	100 g of powder	I	1800	174
+ND01709	0.8	0	7.2	Vegetables	Other	Null	0.5 cup (125g)	PB	411	1.35
+ND00821	0	0	7.231404959	Fruits	Peaches	Other	0.5 cup	PB	411	1.59
+ND00360	6.451612903	22.58064516	7.258064516	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	PB	340	3.99
+ND01903	0.81300813	0	7.317073171	Vegetables	Red	Beet	0.5 cup	PB	411	1.43
+ND01749	0.81300813	0	7.317073171	Vegetables	Red	Beet	0.5 cup	PB	234	0.95
+ND01474	1.83	0.19	7.34	Spices_and_Herbs	Seasonings	Null	"100g=1 cup, chopped / 6g=1 tbsp, chopped"	PB	7.08	0.75
+ND01640	1.43	0.16	7.37	Vegetables	Green	Cabbage	1 cup chopped = 89g	LK	453.592	0.99
+ND00155	1.408450704	0	7.394366197	Baby_Foods	Baby_Vegetables	Stage_1	1 pack	WM	142	0.98
+ND01711	1.612903226	0	7.459677419	Vegetables	Other	Null	0.5 cup	PB	241	0.95
+ND00243	0	0	7.5	Beverages	Juice	Mixed Juice	8 OZ	WD	1890	2.89
+ND00246	0	0	7.5	Beverages	Juice	Mixed Juice	8 fl oz	PB	1890	2.69
+ND00244	0	0	7.5	Beverages	Juice	Mixed Juice	8 fl oz	PB	1890	2.69
+ND00418	0	30	7.5	Dairy_and_Egg	Cream	Null	1 Tbsp	PB	473	2.89
+ND01032	13.33333333	16.66666667	7.5	Meats	Bacon_and_Sausage	Turkey_Bacon	1 slice	PB	340	3.79
+ND01405	1.666666667	1.666666667	7.5	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	SW	298	1.34
+ND01616	2.5	0	7.5	Vegetables	Green	Artichoke	5	PB	240	2.29
+ND01750	0.833333333	0	7.5	Vegetables	Red	Beet	0.5 cup	PB	425	1.25
+ND01837	3	2	7.52	Formulas	Liquid_Nutrition	Null	1 carton	I	250	3.12
+ND01416	8.474576271	4.661016949	7.521186441	Sauces_Soups_Condiments_Dressing	Soups	Null	1 cup	PB	425	2.69
+ND00814	0.61	0.15	7.55	Fruits	Melons	Null	"154g=1 cup, balls / 152g=1 cup, diced"	I	N/A	3.99
+ND00817	1.78	1.26	7.56	Fruits	Melons	Null	"233g=1 cup / 209g=1 fruit,  (4-.66"" long x 2-3/4"" dia)"	I	N/A	2.5
+ND00346	21.73913043	30.43478261	7.608695652	Dairy_and_Egg	Cheese	Colby-Jack	1 slice	PB	227	4.39
+ND01110	10.97560976	25.6097561	7.62195122	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	410	5.79
+ND01628	1.176470588	0	7.647058824	Vegetables	Green	Broccoli	1 cup	PB	680	3.49
+ND00785	0.67	0.3	7.68	Fruits	Berries	Strawberry	"152g=1 cup,  halves / 232g=1 cup, pureed"	I	N/A	1.98
+ND01782	1.6	1.2	7.7	Vegetables	Yellow	Corn	0.5 cup	PB	432	0.8
+ND01670	1.19047619	0	7.738095238	Vegetables	Green	Okra	3/4 cup	WD	907	3.49
+ND01292	0	0	7.8125	Sauces_Soups_Condiments_Dressing	Condiments	Ketchup	1 Tbsp	PB	369	2.69
+ND01745	23.4375	9.375	7.8125	Vegetables	Processed	Soy products	1 burger	PB	256	4.49
+ND00724	1.763693315	3.597934362	7.830798318	Formulas	Liquid_Nutrition	Null	5 fl oz	SW	366	17.92
+ND01659	1.89	0.28	7.88	Vegetables	Green	Green_Beans	1 cup = 125g	PB	454	1.69
+ND01411	1.666666667	5	7.916666667	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.75
+ND01387	1.587301587	1.587301587	7.936507937	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup	PB	396	1.39
+ND00173	0.884955752	0	7.96460177	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	1.19
+ND00171	0.884955752	0	7.96460177	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	WD	226	1.11
+ND00174	0.884955752	0	7.96460177	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WD	113	0.69
+ND00170	0.884955752	0	7.96460177	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	226	1.07
+ND00175	0.884955752	0	7.96460177	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.63
+ND00179	0.884955752	0	7.96460177	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	226	1.07
+ND01673	3.2	0.4	8	Vegetables	Green	Peas	0.5 cup	PB	425	1.25
+ND01741	18	4	8	Vegetables	Processed	Soy products	0.5 cup	WD	340	4.79
+ND01656	1.234567901	0	8.024691358	Vegetables	Green	Green_Beans	.66 cup (81g)	SW	340	0.98
+ND01657	1.234567901	0	8.024691358	Vegetables	Green	Green_Beans	.66 cup	PB	425	1.69
+ND00719	14.4	69.1	8.1	Formulas	Fat	Null	100 g of powder	I	1800	178
+ND01705	0.81300813	0	8.130081301	Vegetables	Orange	Pumpkin	0.5 cup	PB	425	2.19
+ND00815	0.84	0.19	8.16	Fruits	Melons	Null	"177g=1 cup, balls / 160g=1 cup, cubes"	I	100	1
+ND01017	16.36363636	25.45454545	8.181818182	Meats	Bacon_and_Sausage	Prepared_Sausage	3 skillet-cooked links	PB	340	3.33
+ND00178	1.769911504	0	8.185840708	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	226	1.07
+ND01897	0	0	8.196721311	Fruits	Pears	Other	0.5 cup	SW	411	1.08
+ND01675	3.278688525	0	8.196721311	Vegetables	Green	Peas	0.5 cup	PB	425	1.39
+ND01710	0.8	0	8.2	Vegetables	Other	Null	0.5 cup	PB	425	0.8
+ND01697	0.76	0.18	8.22	Vegetables	Orange	Carrot	"9g=1 tbsp / 78g=.5 cup, slices"	PB	454	1.25
+ND00138	2.352941176	1.176470588	8.235294118	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	WM	170	0.72
+ND01703	1.176470588	0	8.235294118	Vegetables	Orange	Carrot	0.5 cup	PB	425	1.49
+ND01696	0.64	0.13	8.24	Vegetables	Orange	Carrot	15g=1 large / 10g=1 medium	PB	454	1.25
+ND00803	0	0	8.26446281	Fruits	Fruits_Mixed	Null	0.5 cup	PB 	425	1.59
+ND00834	0	0	8.26446281	Fruits	Pears	Other	0.5 cup	PB 	234	1.19
+ND00835	0	0	8.26446281	Fruits	Pears	Other	0.5 cup	PB 	411	1.59
+ND00395	13.33333333	20	8.333333333	Dairy_and_Egg	Cheese	Other	1 tbsp	PB	454	4.99
+ND00419	0	33.33333333	8.333333333	Dairy_and_Egg	Cream	Null	1 tbsp	SW	473	2.38
+ND00421	0	33.33333333	8.333333333	Dairy_and_Egg	Cream	Null	1 tbsp	PB	473	3.45
+ND00422	0	33.33333333	8.333333333	Dairy_and_Egg	Cream	Null	1 tbsp	WD	473	3.59
+ND00638	0	66.66666667	8.333333333	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	368	1.89
+ND00962	33.33333333	33.33333333	8.333333333	Meats	Bacon_and_Sausage	Pork_Bacon	3 pan fried slices	WD	340	5.99
+ND00976	33.33333333	33.33333333	8.333333333	Meats	Bacon_and_Sausage	Pork_Bacon	2 pan fried slices	PB	340	6.99
+ND01350	3.333333333	46.66666667	8.333333333	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	PB	710	4.95
+ND01370	0	0	8.333333333	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	2 Tbsp	PB	454	2
+ND01372	0	0	8.333333333	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	2 Tbsp	SW	680	2
+ND01373	0	0	8.333333333	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	1 Tbsp	PB	226	1.79
+ND01409	0.833333333	1.666666667	8.333333333	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.75
+ND01692	0	0	8.333333333	Vegetables	Multi	Peppers	2 tbsp	SW	127	1.38
+ND01724	0	0	8.333333333	Vegetables	Processed	Sauerkraut	1 oz. (~2tbsp)	SW	454	1.38
+ND00793	0.42	0.07	8.42	Fruits	Citrus	Lime	242g=1 cup / 30.8g=1 fl oz	I	N/A	2.49
+ND01706	0.819672131	0.409836066	8.504098361	Vegetables	Orange	Pumpkin	0.5 cup	PB	425	1.89
+ND01406	0.833333333	4.166666667	8.541666667	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.75
+ND01747	26.31578947	7.894736842	8.552631579	Vegetables	Processed	Soy products	1 patty	SW	228	3.67
+ND00117	2.02020202	2.02020202	8.585858586	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack (99 g)	PB	198	1.29
+ND01794	0.95	0.13	8.59	Vegetables	Yellow	Squash	"116g=1 cup, cubes / g="	PB	454	1.29
+ND01774	1.08	0.16	8.62	Vegetables	White_Brown_Black	Rutabaga	"140g=1 cup, cubes / 772g=1 large"	PB	454	0.99
+ND01661	4.28	0.93	8.75	Vegetables	Green	Kale	1 cup loosely packed = 16 g	PB	350	1.49
+ND01108	10.52631579	22.80701754	8.771929825	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	454	2.5
+ND00154	0	0	8.802816901	Baby_Foods	Baby_Vegetables	Stage_1	1 jar	PB	71	0.73
+ND00156	0	0	8.802816901	Baby_Foods	Baby_Vegetables	Stage_1	1 pack	PB	142	0.95
+ND00474	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container	WD	170	0.65
+ND00475	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00477	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00479	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00480	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container 	WD	170	2.29
+ND00481	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container 	WD	680	2.29
+ND00483	2.941176471	0	8.823529412	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00980	29.41176471	35.29411765	8.823529412	Meats	Bacon_and_Sausage	Pork_Bacon	1 fried slice	SW	681	6.86
+ND00981	29.41176471	35.29411765	8.823529412	Meats	Bacon_and_Sausage	Pork_Bacon	3 fried slices	PB	340	5.99
+ND00982	29.41176471	35.29411765	8.823529412	Meats	Bacon_and_Sausage	Pork_Bacon	1 fried slice 	PB	680	7.39
+ND00176	1.769911504	0	8.849557522	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WD	113	0.64
+ND01842	2.654867257	0	8.849557522	Baby_Foods	Baby_Vegetables	Stage_2	1 Jar	PB	113	0.61
+ND00181	2.654867257	0	8.849557522	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.69
+ND00794	0.884955752	0	8.849557522	Fruits	Citrus	Orange	1 container	WD	452	2.99
+ND01854	0	35.71428571	8.928571429	Fats_and_Oils	Butter	Plain	1 tbsp	PB 	226	2.19
+ND00629	0	35.71428571	8.928571429	Fats_and_Oils	Margarine	Supplemented	1 tbsp	PB	227	4.89
+ND00637	0	35.71428571	8.928571429	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	425	3.35
+ND00996	35.71428571	35.71428571	8.928571429	Meats	Bacon_and_Sausage	Pork_Bacon	2 slices cooked	PB	71	3.99
+ND00990	35.71428571	35.71428571	8.928571429	Meats	Bacon_and_Sausage	Pork_Bacon	1 skillet cooked slice	PB	454	6.99
+ND01636	3.38	0.3	8.95	Vegetables	Green	Brussel_Sprouts	88g=1 cup / 19g=1 sprout	PB	454	3.69
+ND01115	11.32075472	24.52830189	8.962264151	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	425	3.49
+ND01671	2.459016393	0	9.016393443	Vegetables	Green	Peas	0.5 cup	PB	425	1.39
+ND00139	2.352941176	1.470588235	9.044117647	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	1.39
+ND00172	0.884955752	0	9.07079646	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.63
+ND00177	0.884955752	0	9.07079646	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WM	113	0.63
+ND01208	24.77876106	11.50442478	9.07079646	Meats	Poultry	Prepared_Chicken	8 count	I	N/A	3.05
+ND00816	0.54	0.14	9.09	Fruits	Melons	Null	"170g=1 cup, diced (approx 20 pieces per cup) / 177g=1 cup, balls"	I	100	2.5
+ND00116	2.02020202	2.02020202	9.090909091	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack	WD	198	1.11
+ND00357	4.545454545	20.45454545	9.090909091	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp	PB	226	2.85
+ND00633	0	63.63636364	9.090909091	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	SW	349	1.96
+ND01676	3.305785124	0.41322314	9.090909091	Vegetables	Green	Peas	0.5 cup	PB	425	1.79
+ND00159	1.408450704	0	9.154929577	Baby_Foods	Baby_Vegetables	Stage_1	1 pack	WD	71	1
+ND00465	3.333333333	16.66666667	9.166666667	Dairy_and_Egg	Sour_Cream	Null	2 tbsp	PB	454	2.5
+ND00466	3.333333333	16.66666667	9.166666667	Dairy_and_Egg	Sour_Cream	Null	2 tbsp	PB	453	2.27
+ND00467	3.333333333	16.66666667	9.166666667	Dairy_and_Egg	Sour_Cream	Null	2 tbsp	SW	454	1.68
+ND00468	3.333333333	16.66666667	9.166666667	Dairy_and_Egg	Sour_Cream	Null	2 tbsp	PB	227	0.99
+ND00469	3.333333333	16.66666667	9.166666667	Dairy_and_Egg	Sour_Cream	Null	2 tbsp	WD	454	1.99
+ND01344	0	36.66666667	9.166666667	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	PB	709	4.95
+ND00461	0.416666667	1.25	9.270833333	Beverages	Milk_Substitutes	Almond Milk	1 cup	SW	946	1.97
+ND00786	0.714285714	0	9.285714286	Fruits	Berries	Strawberry	1 cup	WD	397	3.69
+ND00787	0.714285714	0	9.285714286	Fruits	Berries	Strawberry	1 cup	PB	454	3.09
+ND00823	0.714285714	0	9.285714286	Fruits	Peaches	Other	3/4 cup	PB	567	3.69
+ND00182	1.769911504	0	9.292035398	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WD	113	0.69
+ND01383	0.793650794	0.793650794	9.325396825	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	680	0.95
+ND01473	1.1	0.1	9.34	Spices_and_Herbs	Seasonings	Null	"160g=1 cup, chopped / 115g=1 cup, sliced"	PB	454	1.29
+ND01163	14.28571429	5.357142857	9.375	Meats	Luncheon_Meats	Turkey	1 slices	PB	340.194278	3.29
+ND00488	3.529411765	0.294117647	9.411764706	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND01702	1.176470588	0	9.411764706	Vegetables	Orange	Carrot	3 oz.	SW	454	1.68
+ND01743	20	6.666666667	9.444444444	Vegetables	Processed	Soy products	2 links	PB	225	4.49
+ND01695	2	0.2	9.46	Vegetables	Multi	Peppers	1 pepper = 45g	PB	453.592	3.99
+ND01347	0	37.93103448	9.482758621	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	SW	473	1.88
+ND00161	2.816901408	0	9.507042254	Baby_Foods	Baby_Vegetables	Stage_1	1 jar	PB	71	0.73
+ND00313	19.04761905	21.42857143	9.523809524	Dairy_and_Egg	Cheese	American	1 slice	PB	340	3
+ND00327	19.04761905	19.04761905	9.523809524	Dairy_and_Egg	Cheese	Cheddar	1 slice	PB	340	3
+ND00832	0.91	0.25	9.54	Fruits	Peaches	Raw	"154g=1 cup, slices / 130g=1 small,  (2-0.5"" dia)"	I	N/A	2.99
+ND01701	0.93	0.24	9.58	Vegetables	Orange	Carrot	"128g=1 cup, chopped / 110g=1 cup, grated"	PB	454	0.99
+ND00775	1.39	0.49	9.61	Fruits	Berries	Blackberry	144g=1 cup / g=	I	N/A	3.49
+ND00407	8.064516129	6.451612903	9.677419355	Dairy_and_Egg	Cheese	Ricotta	0.25 cup	PB	907	3.99
+ND00408	8.064516129	11.29032258	9.677419355	Dairy_and_Egg	Cheese	Ricotta	0.25 cup	PB	907	3.99
+ND01330	0	14.51612903	9.677419355	Sauces_Soups_Condiments_Dressing	Dressings	Italian	2 Tbsp	SW	473	1.88
+ND01371	0	0	9.677419355	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	2 Tbsp	SW	680	1.98
+ND01637	3.529411765	0	9.705882353	Vegetables	Green	Brussel_Sprouts	"6 brussels sprouts, 85g"	PB	425	1.99
+ND00114	2.654867257	0.884955752	9.734513274	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 jar (113 g)	PB	113	1.19
+ND00144	1.764705882	2.058823529	9.779411765	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	0.9
+ND00366	7.142857143	32.14285714	9.821428571	Dairy_and_Egg	Cheese	Cream_Cheese	1 oz. 	WM	227	1.96
+ND00367	7.142857143	32.14285714	9.821428571	Dairy_and_Egg	Cheese	Cream_Cheese	1oz	WM	226	2.37
+ND00316	15.78947368	23.68421053	9.868421053	Dairy_and_Egg	Cheese	American	1 slice	PB	456	6.49
+ND01674	3.2	0.4	9.9	Vegetables	Green	Peas	0.5 cup	PB	425	1.25
+ND01116	11.32075472	28.30188679	9.905660377	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	425	5.79
+ND01117	11.32075472	28.30188679	9.905660377	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	425	5.79
+ND00355	6.666666667	15	10	Dairy_and_Egg	Cheese	Cream_Cheese	2 tbsp.	WM	227	2.36
+ND00485	3.529411765	0.588235294	10	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00486	3.529411765	0.588235294	10	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00487	3.529411765	0.294117647	10	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00489	3.529411765	0	10	Dairy_and_Egg	Yogurt	Flavored	1 container	WD	170	0.6
+ND00571	10	0	10	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND00572	10	0	10	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND00573	10	0	10	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND00574	10	0	10	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND01894	75	7.5	10	Formulas	Protein	Null	0.25 cup	EO	340	16.49
+ND01022	14	32	10	Meats	Bacon_and_Sausage	Prepared_Sausage	1 patty	SW	706	5.47
+ND01321	0	33.33333333	10	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	2 Tbsp	PB	473	3.53
+ND01338	0	40	10	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	473	3.53
+ND01374	0	0	10	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	2 Tbsp	PB	680	3.49
+ND01375	0	0	10	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	2 Tbsp	PB	680	3.29
+ND01550	40	0	10	Sweets	Gelatin	Null	0.5 cup prepared	PB	9	0.5
+ND01551	40	0	10	Sweets	Gelatin	Null	0.5 cup prepared	PB	9	0.5
+ND00718	4.4	73	10.1	Formulas	Fat	Null	100 g of powder	I	500	12
+ND00030	2.02020202	0	10.1010101	Baby_Foods	Baby_Dairy	Stage_2	1 pouch	PB	99	1.59
+ND00184	0.884955752	0	10.17699115	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	226	1.07
+ND01807	0	0	10.24590164	Fruits	Peaches	Other	0.5 cup	SW	425	0.98
+ND00825	0	0	10.24590164	Fruits	Peaches	Other	0.5 cup	PB	425	1.25
+ND01133	14.28571429	8.928571429	10.26785714	Meats	Luncheon_Meats	Salami	1 slice	PB	340	3.29
+ND00491	2.941176471	0	10.29411765	Dairy_and_Egg	Yogurt	Flavored	1 container 	SW	170	0.58
+ND00492	2.941176471	0	10.29411765	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	170	0.4
+ND00494	2.941176471	0	10.29411765	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	170	0.4
+ND00495	2.941176471	0	10.29411765	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	170	0.4
+ND00496	2.941176471	0	10.29411765	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	170	0.4
+ND01577	0.970873786	1.45631068	10.31553398	Sweets	Puddings	Null	1 snack	PB	412	2.5
+ND01580	0.970873786	1.45631068	10.31553398	Sweets	Puddings	Null	1 snack	PB	412	2.5
+ND01288	17.24137931	68.96551724	10.34482759	Nuts_and_Seeds	Walnuts	Null	.33 cup	PB	141.3	3.49
+ND01841	0	0	10.41666667	Baby_Foods	Baby_Fruits	Stage_2	0.25 Cup	PB	120	1.09
+ND00044	0	0	10.41666667	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	PB	120	1.09
+ND00157	0	0	10.41666667	Baby_Foods	Baby_Vegetables	Stage_1	0.25 cup	WD	120	1.09
+ND00158	0	0	10.41666667	Baby_Foods	Baby_Vegetables	Stage_1	0.25 cup	WM	120	0.98
+ND01791	0.8	0.1	10.42	Vegetables	Yellow	Squash	"140g=1 cup, cubes / 431g=1 squash,  (4 inch dia)"	PB	454	1.29
+ND01098	12	0	10.5	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	396	5.79
+ND01413	1.666666667	2.916666667	10.52083333	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	PB	298	1.75
+ND00317	21.05263158	21.05263158	10.52631579	Dairy_and_Egg	Cheese	American	1 slice	PB	453	6.49
+ND00983	26.31578947	42.10526316	10.52631579	Meats	Bacon_and_Sausage	Pork_Bacon	2 fried slices	PB	454	6.99
+ND00497	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	170	0.4
+ND00498	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00500	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00501	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00502	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container 	PB	170	0.4
+ND00503	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00504	4.117647059	0	10.58823529	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00128	2.654867257	2.212389381	10.61946903	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 jar (113 g)	PB	113	1.19
+ND00748	0	0	10.6557377	Fruits	Apples	Applesauce	0.5 cup	SW	652	1.48
+ND00749	0	0	10.6557377	Fruits	Apples	Applesauce	0.5 cup	PB	652	2
+ND00750	0	0	10.6557377	Fruits	Apples	Applesauce	0.5 cup	PB	652	1.69
+ND00146	2.352941176	2.058823529	10.66176471	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	0.9
+ND00147	2.352941176	2.058823529	10.66176471	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	0.9
+ND01587	1.941747573	1.45631068	10.67961165	Sweets	Puddings	Null	1 snack	PB	412	2.5
+ND00393	14.28571429	17.85714286	10.71428571	Dairy_and_Egg	Cheese	Other	1 oz	PB	453	4.89
+ND00631	0	42.85714286	10.71428571	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	SW	1270	6.28
+ND01106	10.71428571	14.28571429	10.71428571	Meats	Luncheon_Meats	Hot_Dog	1 frank	PB	454	1.49
+ND00516	2.4	2.88	10.72	Dairy_and_Egg	Yogurt	Flavored	125 g	I	250	N/A
+ND00247	0	0	10.73446328	Beverages	Juice	Mixed Juice	1 pouch (177 mL)	PB	1770	2.5
+ND00248	0	0	10.73446328	Beverages	Juice	Mixed Juice	1 pouch (177 mL)	SW	1770	2.5
+ND00250	0	0	10.73446328	Beverages	Juice	Mixed Juice	1 pouch (177 mL)	SW	177	2.5
+ND00143	2.941176471	1.764705882	10.73529412	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	1.39
+ND01388	1.6	1.6	10.8	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 Cup 	PB	680	2.69
+ND01844	1.666666667	0	10.83333333	Baby_Foods	Baby_Vegetables	Stage_2	0.25 Cup	PB	120	1.09
+ND00306	0	0	10.83333333	Beverages	Soda	Null	12 fl oz (1 can)	PB	2000	1.99
+ND01349	3.333333333	23.33333333	10.83333333	Sauces_Soups_Condiments_Dressing	Dressings	Ranch	2 Tbsp	SW	473	2.96
+ND01394	1.666666667	1.25	10.83333333	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	680	2.59
+ND01395	1.666666667	1.25	10.83333333	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	680	2.59
+ND01574	0	3.260869565	10.86956522	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND01576	0	3.260869565	10.86956522	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND01806	0	0	11.0619469	Fruits	Apples	Applesauce	1 cup	SW	680	2.14
+ND00751	0	0	11.0619469	Fruits	Apples	Applesauce	1 cup	SW	680	2.14
+ND00752	0	0	11.0619469	Fruits	Apples	Applesauce	1 cup	PB	678	2.39
+ND01396	2.4	1.6	11.2	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.5 cup	PB	907	4.79
+ND00253	0	0	11.29943503	Beverages	Juice	Mixed Juice	1 pouch (177 mL)	PB	1770	2.5
+ND00254	0	0	11.29943503	Beverages	Juice	Mixed Juice	1 pouch (177 mL)	SW	1770	1.88
+ND00567	8.666666667	0	11.33333333	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00131	2.02020202	3.03030303	11.36363636	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack	WD	198	1.11
+ND00796	0.81300813	0	11.38211382	Fruits	Citrus	Orange	0.5 cup	PB	425	1.59
+ND01578	0.970873786	0.970873786	11.40776699	Sweets	Puddings	Null	1 snack	PB	412	2.5
+ND01581	0.970873786	0.970873786	11.40776699	Sweets	Puddings	Null	1 snack	PB	412	2.5
+ND00150	2.352941176	2.352941176	11.47058824	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	0.9
+ND00133	3.03030303	2.525252525	11.48989899	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack (99 g)	PB	198	1.29
+ND00577	7.333333333	2	11.5	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00015	3.539823009	3.539823009	11.50442478	Baby_Foods	Baby_Dairy	Null	1 container 	PB	680	3.99
+ND00016	3.539823009	3.539823009	11.50442478	Baby_Foods	Baby_Dairy	Null	1 container	PB	680	3.99
+ND01839	0	0	11.50442478	Baby_Foods	Baby_Fruits	Stage_2	1 Jar	PB	113	1.19
+ND00836	0	0	11.50442478	Fruits	Pears	Other	1 cup	PB	452	2.67
+ND00328	15.38461538	23.07692308	11.53846154	Dairy_and_Egg	Cheese	Cheddar	2 tbsp	PB	357	5.59
+ND00795	0.7	0.21	11.54	Fruits	Citrus	Orange	"185g=1 cup, sections without membranes / 141g=1 fruit,  (2-5/8"" dia)"	I	N/A	0.99
+ND00307	0	0	11.54929577	Beverages	Soda	Null	12 fl oz	SW	2000	1.48
+ND00524	4.7	3.2	11.6	Dairy_and_Egg	Yogurt	Flavored	100 g	I	500	N/A
+ND00390	17.85714286	10.71428571	11.60714286	Dairy_and_Egg	Cheese	Other	1 oz	PB	453	4.89
+ND01865	0.704225352	0	11.61971831	Baby_Foods	Baby_Vegetables	Stage_3	1 Pack	WD	284	1.69
+ND01205	13.63636364	10.22727273	11.64772727	Meats	Poultry	Prepared_Chicken	7 nuggets	PB	227	6.49
+ND00234	0	0	11.66666667	Beverages	Juice	Craberry Juice	1 cup	SW	1890	2.68
+ND00458	6.666666667	6.666666667	11.66666667	Dairy_and_Egg	Milk	Plain	2 tbsp	SW	354	0.94
+ND01795	1	0.1	11.69	Vegetables	Yellow	Squash	"140g=1 cup, cubes / g="	PB	454	1.29
+ND00753	0	0	11.71171171	Fruits	Apples	Applesauce	1 container	SW	666	1.98
+ND01805	0	0	11.71171171	Fruits	Apples	Applesauce	1 container	SW	666	1.98
+ND00754	0	0	11.71171171	Fruits	Apples	Applesauce	1 container	WD	666	2.79
+ND00756	0	0	11.71171171	Fruits	Apples	Applesauce	1 container	PB	666	1.98
+ND00757	0	0	11.71171171	Fruits	Apples	Applesauce	1 container	WD	666	2.79
+ND00807	0.714285714	0	11.78571429	Fruits	Fruits_Mixed	Null	1 cup	PB	567	4.29
+ND01857	0.704225352	0.704225352	11.79577465	Baby_Foods	Baby_Vegetables	Stage_3	1 Pack	PB 	284	1.67
+ND01742	19.04761905	5.357142857	11.9047619	Vegetables	Processed	Soy products	3oz	PB	227	3.99
+ND00784	1.2	0.65	11.94	Fruits	Berries	Raspberry	"123g=1 cup / 312g=1 pint,  as purchased, yields"	I	N/A	4.99
+ND01779	0.91954023	0.91954023	11.95402299	Vegetables	Yellow	Corn	.33 cup (drained)	PB	432	1.43
+ND00579	7.333333333	2.666666667	12	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND00580	7.333333333	2.666666667	12	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND00837	0	0	12	Fruits	Pears	Other	0.5 cup	SW	425	1.08
+ND01070	14.28571429	16.07142857	12.05357143	Meats	Luncheon_Meats	Bologna	1 slice	PB	340	3.29
+ND00511	4.117647059	0	12.05882353	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00510	4.117647059	0	12.05882353	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00513	4.117647059	0	12.05882353	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00514	4.117647059	0	12.05882353	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00452	3.333333333	3.333333333	12.08333333	Dairy_and_Egg	Milk	Flavored	1 cup	SW	1890	2.98
+ND01067	26.66666667	5	12.08333333	Meats	Luncheon_Meats	Beef	7 slices (30g) 	PB	128	4.39
+ND00804	0.806451613	0	12.09677419	Fruits	Fruits_Mixed	Null	0.5 cup 	PB	425	1.59
+ND00806	0	0	12.09677419	Fruits	Fruits_Mixed	Null	0.5 cup	PB	425	1.59
+ND00827	0	0	12.09677419	Fruits	Peaches	Other	0.5 cup	PB	425	1.59
+ND01809	0	0	12.09677419	Fruits	Peaches	Other	0.5 cup	SW	425	1.38
+ND00838	0	0	12.09677419	Fruits	Pears	Other	0.5 cup	SW	425	1.38
+ND00839	0	0	12.09677419	Fruits	Pears	Other	0.5 cup	PB	425	1.59
+ND00841	0	0	12.09677419	Fruits	Pears	Other	0.5 cup	SW	425	1.06
+ND00132	2.02020202	3.03030303	12.12121212	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack	WD	198	1.11
+ND01376	9.090909091	21.21212121	12.12121212	Sauces_Soups_Condiments_Dressing	Sauces	Salsa	2 Tbsp	SW	425	2.68
+ND00778	0.714285714	0.714285714	12.14285714	Fruits	Berries	Blueberry	1 cup	PB	340	3.5
+ND00783	1.428571429	0.714285714	12.14285714	Fruits	Berries	Raspberry	1 cup	PB	340	3.79
+ND00788	1	0.3	12.18	Fruits	Cherries	Null	"155g=1 cup, without pits / 103g=1 cup, with pits yields"	I	N/A	2.99
+ND00032	0	0	12.32394366	Baby_Foods	Baby_Fruits	Stage_1	1 jar	PB	71	0.73
+ND00507	2.941176471	0	12.35294118	Dairy_and_Egg	Yogurt	Flavored	1 container 	WD	170	0.75
+ND00053	0.884955752	0	12.38938053	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	1.19
+ND00054	0.884955752	0	12.38938053	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	1.19
+ND00049	0.884955752	0	12.38938053	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00058	0.884955752	0	12.38938053	Baby_Foods	Baby_Fruits	Stage_2	1 pack	WM	113	1.38
+ND00120	2.654867257	0.884955752	12.38938053	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 jar (113 g)	PB	113	1.19
+ND00251	0	0	12.42937853	Beverages	Juice	Mixed Juice	1 drink box	WM	1770	1.98
+ND00183	0	0	12.5	Baby_Foods	Baby_Vegetables	Stage_2	0.25 cup	PB	120	1.09
+ND00228	0	0	12.5	Beverages	Juice	Apple Juice	240 ml	SW	3780	4.48
+ND00229	0	0	12.5	Beverages	Juice	Apple Juice	8 fl oz	PB	1890	2.5
+ND00396	9.375	21.875	12.5	Dairy_and_Egg	Cheese	Other	2 tbsp	PB	454	2.39
+ND01175	50	35.71428571	12.5	Meats	Pork	Null	9 pieces	SW	99.2	2
+ND01323	0	16.66666667	12.5	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	2 Tbsp	PB	473	2.89
+ND01369	6.25	0	12.5	Sauces_Soups_Condiments_Dressing	Sauces	Other	1 Tbsp	SW	297	0.5
+ND01824	0	0	12.5	Supplement	Multivitamins	Null	1 packet	I	30	48.5
+ND00797	0.91	0.15	12.54	Fruits	Citrus	Orange	"165g=1 cup, sections without membranes / 140g=1 fruit,  (2-7/8"" dia)"	I	N/A	0.99
+ND00568	8	0	12.66666667	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00569	8	0	12.66666667	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00570	8	0	12.66666667	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00780	0.714285714	0.357142857	12.76785714	Fruits	Berries	Other	1 cup	WD	340	3.89
+ND00526	3.28	3.44	12.8	Dairy_and_Egg	Yogurt	Flavored	1 cup	I	250	N/A
+ND01672	3.2	0	12.8	Vegetables	Green	Peas	0.5 cup	PB	241	0.95
+ND01860	3.539823009	3.539823009	12.83185841	Baby_Foods	Baby_Dairy	Null	1 Container	PB 	680	3.99
+ND01398	3.225806452	0	12.90322581	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	0.25 cup	PB	822	2.19
+ND00451	3.333333333	3.333333333	12.91666667	Dairy_and_Egg	Milk	Flavored	1 cup	PB	946	2.87
+ND00252	0	0	12.99435028	Beverages	Juice	Mixed Juice	1 box	PB	1700	2
+ND01740	17.85714286	5.952380952	13.0952381	Vegetables	Processed	Soy products	6 meatballs	PB	255	4.99
+ND01720	2.419354839	5.64516129	13.10483871	Vegetables	Processed	Potatoes_Fries_Tator_Tots	0.5 cup	PB	680	3.99
+ND00850	0.54	0.12	13.12	Fruits	Pineapple	Raw	"165g=1 cup, chunks / 905g=1 fruit"	I	N/A	4.99
+ND00844	0.877192982	0	13.15789474	Fruits	Pineapple	Other	2 slices	PB	567	1.71
+ND00578	7.333333333	2	13.16666667	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND01677	4.395604396	0	13.18681319	Vegetables	Green	Peas	.66 cup	PB	255	1.99
+ND00051	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	1.19
+ND00055	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	1.19
+ND00056	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WM	113	0.63
+ND00057	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	0.63
+ND00066	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00068	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND01845	0	0	13.27433628	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00846	0.884955752	0	13.27433628	Fruits	Pineapple	Other	1 container	PB	452	2.79
+ND00845	0.884955752	0	13.27433628	Fruits	Pineapple	Other	1 container	WD	452	2.99
+ND01074	9.375	28.125	13.28125	Meats	Luncheon_Meats	Bologna	1 slice	WD	454	2.99
+ND00048	0	0	13.33333333	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	WD	120	1.09
+ND01840	0	1.666666667	13.33333333	Baby_Foods	Baby_Fruits	Stage_2	0.25 Cup	PB	120	1.09
+ND00047	0	0	13.33333333	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	PB	120	1.09
+ND00582	7.333333333	2.666666667	13.33333333	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND01286	16.66666667	66.66666667	13.33333333	Nuts_and_Seeds	Walnuts	Null	0.25 cup	PB	113	3.99
+ND01287	16.66666667	66.66666667	13.33333333	Nuts_and_Seeds	Walnuts	Null	0.25 cup	PB	454	10.99
+ND01813	26.66666667	53.33333333	13.33333333	Nuts_and_Seeds	Walnuts	Null	0.25 cup	PB	227	6.49
+ND01378	6.666666667	0	13.33333333	Sauces_Soups_Condiments_Dressing	Sauces	Soy	1 Tbsp	PB	443	2.59
+ND01380	0	20	13.33333333	Sauces_Soups_Condiments_Dressing	Sauces	Tartar	2 Tbsp	PB	266	1.99
+ND01381	0	16.66666667	13.33333333	Sauces_Soups_Condiments_Dressing	Sauces	Tartar	2 Tbsp	PB	354	2.39
+ND01412	1.666666667	2.083333333	13.33333333	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup	SW	650	2.24
+ND01604	0	0	13.33333333	Sweets	Syrups_and_Toppings	Null	0.25 cup	PB	710	3.49
+ND00802	0.81	0.31	13.34	Fruits	Citrus	Tangerine	"195g=1 cup, sections / 76g=1 small,  (2-0.25"" dia)"	I	N/A	4.49
+ND00727	2.995780591	4.050632911	13.37552743	Formulas	Liquid_Nutrition	Null	8 fl oz (1 can)	I	5688	166
+ND01236	7.79	76.08	13.38	Nuts_and_Seeds	Macadeamia	Null	1 cup = 132 g	I	170	4.98
+ND00383	17.85714286	17.85714286	13.39285714	Dairy_and_Egg	Cheese	Mozzarella	1 oz (28 g)	PB	226	3.99
+ND01176	57.14285714	32.14285714	13.39285714	Meats	Pork	Null	0.5 oz	PB	92.1	1.99
+ND01737	14.92537313	8.955223881	13.43283582	Vegetables	Processed	Soy products	1 burger	PB	268	4.49
+ND00847	0.819672131	0	13.52459016	Fruits	Pineapple	Other	0.5 cup	PB	567	1.71
+ND00848	0.819672131	0	13.52459016	Fruits	Pineapple	Other	0.5 cup	PB	227	1
+ND00515	4.117647059	0	13.52941176	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00781	0.714285714	0	13.57142857	Fruits	Berries	Other	1 cup	WD	397	3.69
+ND00798	0.714285714	0	13.57142857	Fruits	Citrus	Orange	0.5 cup	PB	425	1.25
+ND00728	3	3.84	13.6	Formulas	Liquid_Nutrition	Null	250 ml (1 carton)	I	6000	169.99
+ND01781	1.6	0.8	13.6	Vegetables	Yellow	Corn	0.5 cup	PB	432	0.8
+ND00189	0.884955752	0.442477876	13.60619469	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	1.19
+ND00575	8	0	13.66666667	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00576	8	0	13.66666667	Dairy_and_Egg	Yogurt	Greek	1 container	PB	150	1.25
+ND00725	3.797468354	2.53164557	13.71308017	Formulas	Liquid_Nutrition	Null	1 Bottle	PB	1638	8.59
+ND00186	1.769911504	0	13.71681416	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	113	1.59
+ND01281	13.79310345	65.51724138	13.79310345	Nuts_and_Seeds	Walnuts	Null	0.25 cup	PB	340	6.49
+ND01282	13.79310345	65.51724138	13.79310345	Nuts_and_Seeds	Walnuts	Null	0.25 cup	PB	170	3.49
+ND00152	2.941176471	2.352941176	13.82352941	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	WD	170	0.79
+ND00529	3.524229075	3.524229075	13.87665198	Dairy_and_Egg	Yogurt	Flavored	1 cup	PB	907	3.69
+ND00136	2.02020202	3.03030303	13.88888889	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack (99 g)	PB	198	1.29
+ND01681	5.555555556	0	13.88888889	Vegetables	Green	Peas	.66 cup	PB	425	1.69
+ND01665	3.2	0.4	13.9	Vegetables	Green	Lima_Beans	0.5 cup	PB	425	1.23
+ND00726	3.797468354	2.53164557	13.92405063	Formulas	Liquid_Nutrition	Null	1 Bottle	PB	1638	8.59
+ND00730	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	1 bottle (8 fl oz)	PB	1638	11.79
+ND00731	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	1 bottle (8 fl oz)	PB	1638	11.79
+ND00732	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	1 bottle 	PB	1638	11.79
+ND00733	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	1 bottle	PB	1638	11.79
+ND00734	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	1 bottle	PB	1638	11.79
+ND00735	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	1 bottle	PB	1638	12.99
+ND00737	2.953586498	3.797468354	13.92405063	Formulas	Liquid_Nutrition	Null	8 fl oz (1 can)	I	5688	49
+ND00583	7.333333333	2.666666667	14	Dairy_and_Egg	Yogurt	Greek	1 container 	PB	150	1.13
+ND01679	5.617977528	0	14.04494382	Vegetables	Green	Peas	.66 cup	PB	306	1.99
+ND01680	5.617977528	0	14.04494382	Vegetables	Green	Peas	.66 cup	SW	907	1.98
+ND01772	4.166666667	2.083333333	14.0625	Vegetables	White_Brown_Black	Refried_Beans	0.5 cup	PB	878	2.69
+ND00034	0	0	14.08450704	Baby_Foods	Baby_Fruits	Stage_1	1 jar	PB	71	0.73
+ND00141	2.352941176	0.882352941	14.11764706	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	WM	170	0.68
+ND00142	1.764705882	0.882352941	14.11764706	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar (170 g)	PB	170	1.39
+ND00073	0.884955752	0	14.15929204	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	0.61
+ND00127	1.769911504	0.884955752	14.15929204	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 jar	PB	113	1.19
+ND00185	0.884955752	0	14.15929204	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	WD	113	1.69
+ND01300	0	23.33333333	14.16666667	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp	SW	354	2.62
+ND01332	0	23.33333333	14.16666667	Sauces_Soups_Condiments_Dressing	Dressings	Italian	2 Tbsp	PB	473	3.05
+ND01415	1.666666667	1.25	14.27083333	Sauces_Soups_Condiments_Dressing	Soups	Null	0.5 cup 	PB	305	1.75
+ND00623	0	57.14285714	14.28571429	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Plain	1 tbsp	SW	425	2.98
+ND00622	0	57.14285714	14.28571429	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Plain	1 tbsp	WD	453	1.99
+ND00636	0	57.14285714	14.28571429	Fats_and_Oils	Margarine_and_Margarine_Substitutes	Supplemented	1 tbsp	PB	425	2.69
+ND00779	0	0	14.28571429	Fruits	Berries	Blueberry	1 cup	SW	910	9.36
+ND01235	7.142857143	75	14.28571429	Nuts_and_Seeds	Macadeamia	Null	0.25 cup	PB	170	8.09
+ND01266	10.71428571	75	14.28571429	Nuts_and_Seeds	Nut_Flours_and_Meal	Null	1 oz	PB	453.5	N/A
+ND01277	10.71428571	71.42857143	14.28571429	Nuts_and_Seeds	Pecan	Null	0.25 cup	SW	453	9.98
+ND01276	10.71428571	71.42857143	14.28571429	Nuts_and_Seeds	Pecan	Null	0.25 cup	SW	170	6.98
+ND01278	10.71428571	71.42857143	14.28571429	Nuts_and_Seeds	Pecan	Null	0.25 cup	PB	170	6.99
+ND01285	16.07142857	66.07142857	14.28571429	Nuts_and_Seeds	Walnuts	Null	1 package	SW	56	1.88
+ND01283	14.28571429	64.28571429	14.28571429	Nuts_and_Seeds	Walnuts	Null	0.25 cup	SW	170	1.88
+ND00736	2.953586498	3.797468354	14.34599156	Formulas	Liquid_Nutrition	Null	8 fl oz (1 can)	I	5688	51
+ND00528	3.2	3.28	14.42	Dairy_and_Egg	Yogurt	Flavored	1 cup	I	250	N/A
+ND01678	5.42	0.4	14.45	Vegetables	Green	Peas	145g=1 cup / g=	PB	170	2.5
+ND00777	0.74	0.33	14.49	Fruits	Berries	Blueberry	148g=1 cup / 68g=50 berries	I	N/A	4.49
+ND00065	0	0.442477876	14.49115044	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00060	0	0	14.58333333	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	PB	120	1.09
+ND00061	0	0	14.58333333	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	PB	120	1.09
+ND00062	0	0	14.58333333	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	PB	120	1.09
+ND00115	0	0	14.58333333	Baby_Foods	Baby_Mixed_Dishes	Stage_2	0.25 cup	WD	120	1.09
+ND00187	0	0	14.58333333	Baby_Foods	Baby_Vegetables	Stage_2	0.25 cup	PB	120	1.09
+ND00236	0	0	14.58333333	Beverages	Juice	Craberry Juice	8 fl oz	PB	1890	2.39
+ND00987	25	33.33333333	14.58333333	Meats	Bacon_and_Sausage	Pork_Bacon	2 pan fried slices	PB	340	8.69
+ND00064	0.884955752	0	14.60176991	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00078	0.884955752	0	14.60176991	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00191	0.884955752	0	14.60176991	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	226	1.07
+ND00811	1.14	0.52	14.66	Fruits	Kiwi	Null	"180g=1 cup, sliced / 69g=1 fruit,  (2"" dia)"	I	N/A	0.99
+ND01761	5.737704918	0	14.75409836	Vegetables	White_Brown_Black	Black_Beans	0.5 cup	PB	439	1.49
+ND01762	5.737704918	0	14.75409836	Vegetables	White_Brown_Black	Black_Beans	0.5 cup	WD	439	1.29
+ND01783	1.652892562	0.41322314	14.87603306	Vegetables	Yellow	Corn	0.5 cup	PB	432	1.39
+ND00135	1.01010101	3.03030303	14.8989899	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack	WD	198	1.11
+ND00812	0.82	0.38	14.98	Fruits	Mangos	Null	"165g=1 cup, pieces / 336g=1 fruit, without refuse"	I	N/A	1
+ND00063	0	0	15	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	WD	120	1.09
+ND00240	0	0	15	Beverages	Juice	Grape Juice	8 fl oz	SW	1890	3.88
+ND00813	0.714285714	0.357142857	15	Fruits	Mangos	Null	1 cup	PB	454	3
+ND00043	0	0	15.04424779	Baby_Foods	Baby_Fruits	Stage_2	1 jar 	PB	113	0.61
+ND00050	0	0	15.04424779	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND00059	0.884955752	0	15.04424779	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	113	1.59
+ND00076	0.884955752	0	15.04424779	Baby_Foods	Baby_Fruits	Stage_2	1 pouch	PB	113	1
+ND00581	7.522123894	1.769911504	15.04424779	Dairy_and_Egg	Yogurt	Greek	1 cup	PB	907	5.39
+ND00522	4.444444444	1.333333333	15.11111111	Dairy_and_Egg	Yogurt	Flavored	1 cup 	PB	907	3
+ND00140	1.176470588	0.588235294	15.14705882	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	PB	170	0.72
+ND00145	1.176470588	0.588235294	15.14705882	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	WM	170	0.72
+ND00031	2.02020202	0	15.15151515	Baby_Foods	Baby_Dairy	Stage_2	1 pouch	PB	99	1.59
+ND01284	15.15151515	66.66666667	15.15151515	Nuts_and_Seeds	Walnuts	Null	.33 cup	PB	283	6.99
+ND01583	1.086956522	3.260869565	15.2173913	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND00843	0.36	0.14	15.23	Fruits	Pears	Raw	"140g=1 cup, slices / 161g=1 cup, cubes"	I	N/A	1.49
+ND00738	4.388185654	3.459915612	15.40084388	Formulas	Liquid_Nutrition	Null	8 fl oz	I	5688	38
+ND00017	3.03030303	3.03030303	15.4040404	Baby_Foods	Baby_Dairy	Null	1 container	PB	396	2.99
+ND00018	3.03030303	3.03030303	15.4040404	Baby_Foods	Baby_Dairy	Null	1 container	SW	396	2.84
+ND00019	3.03030303	3.03030303	15.4040404	Baby_Foods	Baby_Dairy	Null	1 container	SW	396	2.84
+ND00022	3.03030303	3.03030303	15.4040404	Baby_Foods	Baby_Dairy	Null	1 container	SW	396	2.84
+ND00023	3.03030303	3.03030303	15.4040404	Baby_Foods	Baby_Dairy	Null	1 container	SW	396	2.84
+ND01801	3.03030303	3.03030303	15.4040404	Baby_Foods	Baby_Fruits	Null	1 container	SW	396	2.84
+ND00318	14.28571429	23.80952381	15.47619048	Dairy_and_Egg	Cheese	American	1 slice	WD	340	2.99
+ND00413	14.28571429	23.80952381	15.47619048	Dairy_and_Egg	Cheese	Swiss	1 slice	WD	340	2.99
+ND01192	20.23809524	11.9047619	15.47619048	Meats	Poultry	Chicken_Breast	3 oz	SW	680	6.98
+ND00045	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WM	113	0.6
+ND00046	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND00067	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00074	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	0.63
+ND00070	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00077	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 pack 	PB	226	1.07
+ND00075	0	0	15.48672566	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	113	1.59
+ND00799	0	0	15.48672566	Fruits	Citrus	Orange	1 container	WD	452	2.99
+ND00525	4.705882353	1.470588235	15.51470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00121	1.01010101	0.505050505	15.53030303	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack	WD	198	1.11
+ND00123	1.01010101	0.505050505	15.53030303	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pack (99g)	PB	198	1.09
+ND00235	0	0	15.625	Beverages	Juice	Craberry Juice	8 fl oz	PB	1890	2.39
+ND00993	25	37.5	15.625	Meats	Bacon_and_Sausage	Pork_Bacon	3 slices	PB	60	3.69
+ND01613	3.125	0	15.625	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	496	2.98
+ND00776	1.428571429	0.357142857	15.71428571	Fruits	Berries	Blackberry	1 cup	PB	340	2.99
+ND01331	0	14.51612903	15.72580645	Sauces_Soups_Condiments_Dressing	Dressings	Italian	2 Tbsp	SW	473	1.88
+ND00314	15.78947368	21.05263158	15.78947368	Dairy_and_Egg	Cheese	American	1 slice	PB	453	5.49
+ND00315	15.78947368	21.05263158	15.78947368	Dairy_and_Egg	Cheese	American	1 slice	PB	453	5.49
+ND00389	15.78947368	7.894736842	15.78947368	Dairy_and_Egg	Cheese	Other	1 slice	PB	453	3.99
+ND00239	0.416666667	0	15.83333333	Beverages	Juice	Grape Juice	64 fl oz 	SW	1890	3.88
+ND00238	0.416666667	0	15.83333333	Beverages	Juice	Grape Juice	8 fl oz	PB	1890	3.83
+ND00035	0	0	15.84507042	Baby_Foods	Baby_Fruits	Stage_1	1 pack	SW	142	0.98
+ND01859	0	0	15.84507042	Baby_Foods	Baby_Fruits	Stage_3	1 Pack	PB 	284	1.67
+ND01846	0	0	15.84507042	Baby_Foods	Baby_Fruits		1 pack	PB	284	1.67
+ND00071	0.884955752	0	15.92920354	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND00130	2.654867257	1.327433628	15.92920354	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 jar	N/A	113	1.19
+ND00519	3.539823009	1.327433628	15.92920354	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	453	2.57
+ND01753	6.557377049	0	15.98360656	Vegetables	Red	Kidney	0.5 cup	WD	439	1.29
+ND00789	1.06	0.2	16.01	Fruits	Cherries	Null	"138g=1 cup, with pits yields / 154g=1 cup, without pits"	I	N/A	2.99
+ND00319	19.04761905	21.42857143	16.07142857	Dairy_and_Egg	Cheese	American	1 slice	PB	340	3
+ND00394	14.28571429	14.28571429	16.07142857	Dairy_and_Egg	Cheese	Other	1oz	PB	453	4.89
+ND01302	0	64.28571429	16.07142857	Sauces_Soups_Condiments_Dressing	Condiments	Mayonnaise	1 Tbsp.	LK	473	4.69
+ND00808	0	0	16.12903226	Fruits	Fruits_Mixed	Null	0.5 cup	PB	425	1.59
+ND01328	0	25.80645161	16.12903226	Sauces_Soups_Condiments_Dressing	Dressings	Italian	2 Tbsp	PB	473	3.53
+ND01765	5.384615385	1.538461538	16.15384615	Vegetables	White_Brown_Black	Garbanzo	0.5 cup	PB	439	1.19
+ND00020	3.03030303	3.03030303	16.16161616	Baby_Foods	Baby_Dairy	Null	1 container	SW	396	2.84
+ND00021	3.03030303	3.03030303	16.16161616	Baby_Foods	Baby_Dairy	Null	1 container	SW	396	2.84
+ND00036	1.408450704	0	16.1971831	Baby_Foods	Baby_Fruits	Stage_1	1 pack	PB	142	0.95
+ND00162	1.408450704	0	16.1971831	Baby_Foods	Baby_Vegetables	Stage_1	1 pack	PB	142	0.95
+ND01322	0	15	16.25	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	2 Tbsp	PB	710	4.79
+ND01366	0	31.03448276	16.37931034	Sauces_Soups_Condiments_Dressing	Sauces	Other	2 tbsp	PB	354	2.39
+ND01614	3.125	0	16.40625	Sweets	Syrups_and_Toppings	Null	2 Tbsp	PB	524	2.99
+ND00125	1.01010101	0	16.66666667	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pouch	PB	99	1.59
+ND00126	1.01010101	0	16.66666667	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 pouch	PB	99	1.59
+ND00237	0	0	16.66666667	Beverages	Juice	Craberry Juice	8 fl oz	PB	1890	2.39
+ND01752	0	0	16.66666667	Vegetables	Red	Cabbage	2 tbsp.	SW	454	1.38
+ND00193	0.884955752	0	16.81415929	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.61
+ND00194	0.884955752	0	16.81415929	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	1.19
+ND00195	0.884955752	0	16.81415929	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	0.63
+ND00192	0.884955752	0	16.81415929	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	WD	226	1.11
+ND00199	0.884955752	0	16.81415929	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	PB	113	1.59
+ND00520	3.539823009	1.327433628	16.81415929	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	453	2.57
+ND00521	3.539823009	1.327433628	16.81415929	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	1356	4.99
+ND01856	0.704225352	0	16.90140845	Baby_Foods	Baby_Vegetables	Stage_3	1 Pack	PB 	284	1.67
+ND01206	15.55555556	7.777777778	16.94444444	Meats	Poultry	Prepared_Chicken	2 pieces	PB	737	8.99
+ND01211	15.55555556	18.88888889	16.94444444	Meats	Poultry	Prepared_Chicken	5 pieces	PB	907	6.29
+ND01861	2.542372881	1.694915254	16.94915254	Baby_Foods	Baby_Dairy	Stage_2	1 Bottle	PB 	473	2.99
+ND00517	3.529411765	0.882352941	17.05882353	Dairy_and_Egg	Yogurt	Flavored	1 container	WD	170	0.55
+ND00518	3.529411765	0.882352941	17.05882353	Dairy_and_Egg	Yogurt	Flavored	1 container	WD	170	0.55
+ND00241	0.416666667	0	17.08333333	Beverages	Juice	Grape Juice	8 fl oz.	SW	1890	3.88
+ND00849	0.714285714	0	17.14285714	Fruits	Pineapple	Other	1 Cup	PB	454	3
+ND00391	9.090909091	15.15151515	17.42424242	Dairy_and_Egg	Cheese	Other	2 tbsp	WD	425	4.82
+ND01848	0	0	17.6056338	Baby_Foods	Baby_Fruits	Stage_3	1 pack	PB	284	1.67
+ND00801	0.819672131	0	17.62295082	Fruits	Citrus	Orange	0.5 cup	WD	425	1.79
+ND00760	0	0	17.64705882	Fruits	Apples	Applesauce	1 container	WD	680	2.19
+ND00069	0	0	17.69911504	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND01119	35.71428571	3.571428571	17.85714286	Meats	Luncheon_Meats	Jerky	1 oz.	PB	85	6.59
+ND01223	21.42857143	53.57142857	17.85714286	Nuts_and_Seeds	Almonds	Null	0.25 cup	SW	454	6.98
+ND01224	21.42857143	53.57142857	17.85714286	Nuts_and_Seeds	Almonds	Null	0.25 cup	SW	454	6.98
+ND01226	21.42857143	53.57142857	17.85714286	Nuts_and_Seeds	Almonds	Null	About 28 pieces	SW	454	6.98
+ND01229	21.42857143	53.57142857	17.85714286	Nuts_and_Seeds	Almonds	Null	About 26 pieces	PB	291	5.99
+ND01270	21.42857143	53.57142857	17.85714286	Nuts_and_Seeds	Nuts_Mixed	Null	About 29 pieces	PB	292	5.29
+ND01271	21.42857143	53.57142857	17.85714286	Nuts_and_Seeds	Nuts_Mixed	Null	About 29 pieces	PB	292	5.29
+ND01272	25	50	17.85714286	Nuts_and_Seeds	Peanut	Null	About 39 pieces	PB	453	3.99
+ND01274	25	50	17.85714286	Nuts_and_Seeds	Peanut	Null	About 39 pieces	SW	978	5.98
+ND01275	28.57142857	50	17.85714286	Nuts_and_Seeds	Peanut	Null	About 39 pieces	PB	453	3.99
+ND01713	7.142857143	17.85714286	17.85714286	Vegetables	Processed	Hummus	2 tbsp	PB	283	3.99
+ND01715	0	0	17.85714286	Vegetables	Processed	Pickles	About 3 chips	SW	710	2.32
+ND01733	11.94029851	5.970149254	17.91044776	Vegetables	Processed	Soy products	1 Burger	PB	268	4.49
+ND01207	12.94117647	17.64705882	17.94117647	Meats	Poultry	Prepared_Chicken	5 pieces	PB	822	6.29
+ND01734	12.5	28.125	17.96875	Vegetables	Processed	Soy products	2 strips	PB	150	4.49
+ND01769	1.2	0.3	17.99	Vegetables	White_Brown_Black	Parsnip	"133g=1 cup, slices / g="	PB	454	3.29
+ND00741	4.52	6.8	18	Formulas	Liquid_Nutrition	Null	250 ml (1 carton)	I	6000	229.99
+ND00810	0.72	0.16	18.1	Fruits	Grapes	Null	151g=1 cup / 49g=10 grapes	I	N/A	3.49
+ND00196	1.769911504	0	18.14159292	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	PB	113	1.19
+ND01400	6.060606061	0	18.18181818	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	2 tbsp	PB	170	0.6
+ND00153	2.941176471	2.352941176	18.23529412	Baby_Foods	Baby_Mixed_Dishes	Stage_3	1 jar	WD	170	0.79
+ND00758	0	0	18.23529412	Fruits	Apples	Applesauce	1 container	WD	680	2.19
+ND00759	0	0	18.23529412	Fruits	Apples	Applesauce	1 container	WD	680	2.39
+ND01780	1	1	18.25	Vegetables	Yellow	Corn	42006	WD	432	1.49
+ND00761	0	0	18.25396825	Fruits	Apples	Applesauce	0.5 cup	SW	1361	3.32
+ND00190	0	0	18.33333333	Baby_Foods	Baby_Vegetables	Stage_2	0.25 cup	WD	120	1.09
+ND01354	0	40	18.33333333	Sauces_Soups_Condiments_Dressing	Dressings	Thousand_Island	2 Tbsp	PB	473	2.99
+ND01377	6.666666667	0	18.33333333	Sauces_Soups_Condiments_Dressing	Sauces	Soy	1 Tbsp	PB	444	2.39
+ND01606	0	0	18.33333333	Sweets	Syrups_and_Toppings	Null	0.25 cup	PB	710	2.59
+ND01210	11.84210526	15.78947368	18.42105263	Meats	Poultry	Prepared_Chicken	4 pieces 	PB	822	6.29
+ND01572	0	2.717391304	18.47826087	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND00080	0.884955752	0	18.5840708	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	113	1.19
+ND01864	0	0	18.75	Baby_Foods	Baby_Fruits	Stage_2	0.25 Cup	WD	120	1.49
+ND01843	0	0	18.75	Baby_Foods	Baby_Fruits	Stage_2	0.25 Cup 	PB	120	1.09
+ND00081	0	0	18.75	Baby_Foods	Baby_Fruits	Stage_2	0.25 cup	PB	120	1.09
+ND00523	3.125	0.78125	18.75	Dairy_and_Egg	Yogurt	Flavored	1 tube	PB	510	2.57
+ND01241	21.875	50	18.75	Nuts_and_Seeds	Nut_Butters	Almond_Butter	2 tbsp	PB	454	17.49
+ND01264	28.125	50	18.75	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	454	2.39
+ND01265	28.125	50	18.75	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	454	2.39
+ND01254	21.875	50	18.75	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	462	3.29
+ND01255	21.875	50	18.75	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	462	3.29
+ND01785	3.22	1.18	19.02	Vegetables	Yellow	Corn	"73g=1 ear,  small (5-0.5"" to 6-0.5"" long) / 90g=1 ear,  medium (6-3/4"" to 7-0.5"" long)"	PB	454	3.99
+ND01418	9.523809524	4.761904762	19.04761905	Sauces_Soups_Condiments_Dressing	Soups	Null	1 container	PB	21	2.19
+ND01353	0	43.33333333	19.16666667	Sauces_Soups_Condiments_Dressing	Dressings	Thousand_Island	2 Tbsp	PB	473	3.53
+ND00088	1.01010101	0	19.19191919	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	198	1.07
+ND01810	0	0	19.23076923	Fruits	Pears	Other	0.5 cup	SW	432	0.98
+ND01227	22.58064516	51.61290323	19.35483871	Nuts_and_Seeds	Almonds	Null	0.25 cup	PB	56	2.59
+ND00134	1.769911504	0.442477876	19.35840708	Baby_Foods	Baby_Mixed_Dishes	Stage_2	1 jar	PB	113	1.19
+ND00198	1.769911504	0.442477876	19.35840708	Baby_Foods	Baby_Vegetables	Stage_2	1 jar	WD	113	0.64
+ND01858	0	0	19.36619718	Baby_Foods	Baby_Fruits	Stage_3	1 Pack	PB 	284	1.67
+ND01736	14.92537313	5.970149254	19.40298507	Vegetables	Processed	Soy products	1 burger	SW	268	3.67
+ND00527	2.941176471	1.176470588	19.41176471	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.7
+ND00610	0	77.77777778	19.44444444	Fats_and_Oils	Butter	Plain	1 tbsp	PB	227	2.59
+ND00611	0	77.77777778	19.44444444	Fats_and_Oils	Butter	Plain	1 tbsp	PB	227	2.29
+ND00612	0	77.77777778	19.44444444	Fats_and_Oils	Butter	Plain	1 tbsp	PB	227	2.39
+ND00084	0.884955752	0	19.46902655	Baby_Foods	Baby_Fruits	Stage_2	1 jar	PB	4	0.61
+ND00086	0.884955752	0	19.46902655	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00197	1.769911504	0	19.46902655	Baby_Foods	Baby_Vegetables	Stage_2	1 pack	WM	113	1.38
+ND00800	0	0	19.51219512	Fruits	Citrus	Orange	1 container	WD	488	2.99
+ND00762	0	0	19.53125	Fruits	Apples	Applesauce	0.5 cup	WD	1361	3.39
+ND00829	0	0	19.53125	Fruits	Peaches	Other	0.5 cup	PB	432	1.59
+ND01808	0	0	19.53125	Fruits	Peaches	Other	0.5 cup 	SW	432	0.98
+ND00830	0	0	19.53125	Fruits	Peaches	Other	0.5 cup 	SW	248	0.86
+ND00831	0	0	19.53125	Fruits	Peaches	Other	0.5 cup	PB	432	1.25
+ND01259	25	53.125	19.53125	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	462	3.39
+ND01260	25	53.125	19.53125	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	462	3.39
+ND01586	1.086956522	3.260869565	19.56521739	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND01120	42.85714286	0	19.64285714	Meats	Luncheon_Meats	Jerky	1 oz.	PB	85	6.59
+ND00809	0	0	19.68503937	Fruits	Fruits_Mixed	Null	0.5 cup 	PB	425	1.59
+ND00842	0	0	19.68503937	Fruits	Pears	Other	0.5 cup	PB	432	1.59
+ND00039	1.408450704	0	19.71830986	Baby_Foods	Baby_Fruits	Stage_1	1 pack	SW	142	0.98
+ND00163	1.408450704	0	19.71830986	Baby_Foods	Baby_Vegetables	Stage_1	1 jar	PB	71	0.73
+ND01367	1.538461538	0.769230769	19.80769231	Sauces_Soups_Condiments_Dressing	Sauces	Other	0.25 cup	SW	340	1.36
+ND01668	7.228915663	0	19.87951807	Vegetables	Green	Lima_Beans	0.5 cup	PB	425	1.99
+ND00083	0	0	19.91150442	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND00082	0	0	19.91150442	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND01306	0	0	20	Sauces_Soups_Condiments_Dressing	Condiments	Mustard	1 tsp	PB	283	2.99
+ND01310	0	0	20	Sauces_Soups_Condiments_Dressing	Condiments	Worcestershire	1 tsp	PB	443	1.99
+ND01770	1.87	0.1	20.13	Vegetables	White_Brown_Black	Potato	"78g=.5 cup / 136g=1 potato,  (2-0.5"" dia, sphere)"	PB	454	1.29
+ND01667	6.756756757	0	20.27027027	Vegetables	Green	Lima_Beans	"0.5 cup prepared, 74g frozen"	PB	255	1.99
+ND00764	0	0	20.3539823	Fruits	Apples	Applesauce	1 container	WD	678	2.79
+ND00765	0	0	20.3539823	Fruits	Apples	Applesauce	1 container	WD	678	2.79
+ND01849	0.704225352	0	20.42253521	Baby_Foods	Baby_Fruits	Stage_3	1 pack	PB	284	1.67
+ND01847	0.704225352	0	20.42253521	Baby_Foods	Baby_Fruits	Stage_3	1 pack	PB	284	1.67
+ND01399	6.060606061	0	20.45454545	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	2 Tbsp	SW	340	0.92
+ND01417	9.090909091	4.545454545	20.45454545	Sauces_Soups_Condiments_Dressing	Soups	Null	1 container	PB	22	2.19
+ND01121	42.85714286	3.571428571	20.53571429	Meats	Luncheon_Meats	Jerky	1 oz.	PB	81	6.39
+ND01708	2.01	0.15	20.71	Vegetables	Orange	Sweet_Potato	200g=1 cup / 180g=1 large	PB	454	1.29
+ND00747	0	0	20.7253886	Formulas	Protein	Null	0.68 oz (19.3 g)	I	579	80.99
+ND01261	25	50	20.83333333	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	369	3.39
+ND01582	1.818181818	0	20.90909091	Sweets	Puddings	Null	1 snack	PB	440	2.5
+ND01124	46.42857143	1.785714286	20.98214286	Meats	Luncheon_Meats	Jerky	1 oz.	PB	81	6.39
+ND00739	5.485232068	4.641350211	21.09704641	Formulas	Liquid_Nutrition	Null	1 bottle	PB	237	10.99
+ND00037	0	0	21.12676056	Baby_Foods	Baby_Fruits	Stage_1	1 jar	PB	71	0.73
+ND00038	1.408450704	0	21.12676056	Baby_Foods	Baby_Fruits	Stage_1	1 pack	SW	142	0.98
+ND00040	1.408450704	0	21.12676056	Baby_Foods	Baby_Fruits	Stage_1	1 pack	SW	142	1.28
+ND00532	4.117647059	1.176470588	21.17647059	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND01219	21.21212121	48.48484848	21.21212121	Nuts_and_Seeds	Almonds	Null	.33 cup	PB	63	2.59
+ND01240	21.21212121	48.48484848	21.21212121	Nuts_and_Seeds	Nut_Butters	Almond_Butter	2 tbsp	SW	340	6.98
+ND01397	3.03030303	0	21.21212121	Sauces_Soups_Condiments_Dressing	Sauces	Tomato	2 tbsp	PB	340	1.59
+ND00090	0.884955752	0	21.23893805	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00091	0.884955752	0	21.23893805	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00092	0.884955752	0	21.23893805	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND00763	0	0	21.23893805	Fruits	Apples	Applesauce	1 container	WD	678	2.79
+ND01122	39.28571429	5.357142857	21.42857143	Meats	Luncheon_Meats	Jerky	1 oz.	WD	85	5.99
+ND01220	21.42857143	50	21.42857143	Nuts_and_Seeds	Almonds	Null	"1oz, about 24 nuts"	PB	454	8.79
+ND01221	21.42857143	50	21.42857143	Nuts_and_Seeds	Almonds	Null	1 package	SW	56	1.98
+ND01222	21.42857143	50	21.42857143	Nuts_and_Seeds	Almonds	Null	0.25 cup	SW	283	5.58
+ND01225	21.42857143	50	21.42857143	Nuts_and_Seeds	Almonds	Null	0.25 cup	SW	454	12.98
+ND01228	21.42857143	50	21.42857143	Nuts_and_Seeds	Almonds	Null	About 26 pieces	PB	291	5.99
+ND01268	21.42857143	50	21.42857143	Nuts_and_Seeds	Nut_Flours_and_Meal	Null	0.25 cup	PB	453	12.19
+ND01754	7.692307692	0.769230769	21.53846154	Vegetables	Red	Kidney	0.5 cup	WD	425	1.49
+ND01771	1.96	0.1	21.55	Vegetables	White_Brown_Black	Potato	"61g=.5 cup / 156g=1 potato,  (2-.33"" x 4-3/4"")"	PB	454	1.29
+ND01811	16.21621622	5.405405405	21.62162162	Grains	Bread	Null	1 pita	SW	227	2.18
+ND00531	3.529411765	1.176470588	21.76470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00533	4.117647059	1.176470588	21.76470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00535	3.529411765	1.176470588	21.76470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00538	4.117647059	1.176470588	21.76470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00540	4.117647059	1.176470588	21.76470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00541	3.529411765	1.176470588	21.76470588	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND01238	18.75	50	21.875	Nuts_and_Seeds	Nut_Butters	Almond_Butter	2 tbsp	PB	340	10.79
+ND01239	18.75	53.125	21.875	Nuts_and_Seeds	Nut_Butters	Almond_Butter	2 tbsp	PB	340	10.99
+ND01262	25	50	21.875	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	510	N/A
+ND01263	25	50	21.875	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	510	N/A
+ND01336	0	18.75	21.875	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	710	4.79
+ND01341	0	21.875	21.875	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	473	3.99
+ND01342	0	46.875	21.875	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	473	3.99
+ND00740	5.485232068	4.641350211	21.94092827	Formulas	Liquid_Nutrition	Null	1 bottle	PB	1638	9.99
+ND01553	3.03030303	9.090909091	21.96969697	Sweets	Ice_Cream	Null	0.5 cup	SW	1410	3.94
+ND01362	0	0	22.05882353	Sauces_Soups_Condiments_Dressing	Sauces	Barbeque	1 tbsp	PB	425	5.49
+ND00089	0.884955752	0	22.12389381	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND00548	4.424778761	2.212389381	22.12389381	Dairy_and_Egg	Yogurt	Flavored	1 container	SW	113	0.58
+ND00766	0	0	22.12389381	Fruits	Apples	Applesauce	1 container	WD	678	2.79
+ND01573	0	2.173913043	22.2826087	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND00024	2.02020202	1.515151515	22.34848485	Baby_Foods	Baby_Dairy	Null	1 pack	SW	198	1.08
+ND00539	4.117647059	1.176470588	22.35294118	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.5
+ND00543	4.117647059	1.176470588	22.35294118	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND00542	4.117647059	1.176470588	22.35294118	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND01258	22.58064516	51.61290323	22.58064516	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2  tbsp	PB	440	2.48
+ND01352	0	25.80645161	22.58064516	Sauces_Soups_Condiments_Dressing	Dressings	Salad_dressing	2 tbsp	PB	473	3.55
+ND00545	4.117647059	1.176470588	22.64705882	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND01584	1.086956522	2.717391304	22.69021739	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND01585	1.086956522	2.717391304	22.69021739	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND01554	3.50877193	8.771929825	22.80701754	Sweets	Ice_Cream	Null	0.5 cup	PB	1410	5.27
+ND00774	1.09	0.33	22.84	Fruits	Bananas	Null	"225g=1 cup, mashed / 150g=1 cup, sliced"	I	N/A	0.69
+ND00534	4.117647059	1.176470588	22.94117647	Dairy_and_Egg	Yogurt	Flavored	1 container	PB	170	0.4
+ND01812	12.5	4.464285714	23.21428571	Grains	Bread	Null	1 Flatbread	PB	280	2.69
+ND01719	2.325581395	9.302325581	23.25581395	Vegetables	Processed	Potatoes_Fries_Tator_Tots	9 pieces	PB	907	3.44
+ND00164	1.666666667	0	23.33333333	Baby_Foods	Baby_Vegetables	Stage_1	0.25 cup	WM	120	0.98
+ND01217	20	50	23.33333333	Nuts_and_Seeds	Almonds	Null	0.25 cup	SW	113	2.68
+ND01218	20	50	23.33333333	Nuts_and_Seeds	Almonds	Null	0.25 cup	SW	113	2.68
+ND01786	3.333333333	1.111111111	23.33333333	Vegetables	Yellow	Corn	.66 cup	SW	907	1.98
+ND01787	3.333333333	1.111111111	23.33333333	Vegetables	Yellow	Corn	.66 cup 	PB	425	1.69
+ND00093	0.884955752	0	23.45132743	Baby_Foods	Baby_Fruits	Stage_2	1 jar	WD	113	0.64
+ND01245	21.21212121	48.48484848	24.24242424	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	SW	793	3.98
+ND01814	21.21212121	48.48484848	24.24242424	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	SW	454	2.48
+ND00940	11.11111111	4.444444444	24.44444444	Grains	Tortillas	Null	1 tortilla	PB	360	3.59
+ND01247	21.875	46.875	25	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 tbsp	SW	794	2.98
+ND01248	21.875	46.875	25	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 tbsp	SW	794	2.98
+ND01249	21.875	46.875	25	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 tbsp	SW	751	2.98
+ND01250	21.875	50	25	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 tbsp	PB	1814	5.67
+ND01251	21.875	50	25	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	793	4.79
+ND01256	21.875	46.875	25	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	453	2.5
+ND01273	25	46.42857143	25	Nuts_and_Seeds	Peanut	Null	About 39 pieces	PB	453	3.99
+ND01305	0	0	25	Sauces_Soups_Condiments_Dressing	Condiments	Mustard	1 tsp	PB	340	1.79
+ND01309	0	0	25	Sauces_Soups_Condiments_Dressing	Condiments	Relish	1 Tbsp	PB	296	1.39
+ND01311	0	0	25	Sauces_Soups_Condiments_Dressing	Condiments	Worcestershire	1 tsp.	PB	148	2.29
+ND01816	0	0	25	Sauces_Soups_Condiments_Dressing	Soups	Null	1 packet	I	32	5.15
+ND01280	20	50	25.83333333	Nuts_and_Seeds	Sunflower_Seeds	Null	0.25 cup	WG	255	2.49
+ND01334	0	36.66666667	25.83333333	Sauces_Soups_Condiments_Dressing	Dressings	Mustard	2 Tbsp	PB	473	3.53
+ND00095	2.02020202	0	26.26262626	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	198	1.07
+ND01575	0	2.717391304	26.49456522	Sweets	Puddings	Null	1 pudding cup	PB	368	1
+ND01234	6.666666667	66.66666667	26.66666667	Nuts_and_Seeds	Coconut	Null	3 tbsp	PB	340	4.39
+ND00856	0	0	27.7	Grains	Baking_Powder_and_Cornstarch	Bakin_Powder	4g=1 tsp / 2.3g=.5 tsp	PB	230	1.69
+ND01503	26.08	36.24	28.09	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 6.3g=1 tbsp	I	50	1.79
+ND01279	21.42857143	46.42857143	28.57142857	Nuts_and_Seeds	Pistachio	Null	0.5 cup	PB	361	7.99
+ND01289	0	0	29.41176471	Sauces_Soups_Condiments_Dressing	Condiments	Ketchup	1 Tbsp	PB	680	3.29
+ND01290	0	0	29.41176471	Sauces_Soups_Condiments_Dressing	Condiments	Ketchup	1 Tbsp 	SW	567	1.24
+ND01291	0	0	29.41176471	Sauces_Soups_Condiments_Dressing	Condiments	Ketchup	1 Tbsp	PB	907	3.39
+ND01293	0	0	29.41176471	Sauces_Soups_Condiments_Dressing	Condiments	Ketchup	1 Tbsp	PB	680	1.89
+ND01294	0	0	29.41176471	Sauces_Soups_Condiments_Dressing	Condiments	Ketchup	1 tbsp.	PB	794	2.69
+ND01557	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	3.32
+ND01558	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	2.58
+ND01559	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	2.58
+ND01560	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	2.58
+ND01562	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	2.58
+ND01563	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	3.32
+ND01564	0	0	29.41176471	Sweets	Jellies_Jams_Preserves	Null	1 Tbsp	SW	361	2.58
+ND01252	21.875	50	29.6875	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	SW	454	2.96
+ND01253	21.875	50	29.6875	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	SW	454	2.96
+ND01257	21.875	50	29.6875	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	454	3.19
+ND01521	10	55	30	Sweets	Chocolate	Null	4 squares	SW	100	2.68
+ND00767	2.222222222	1.851851852	30.64814815	Fruits	Apples	Other	1 pack	SW	135	2.25
+ND01852	0	46.15384615	30.76923077	Fats_and_Oils	Butter	Flavored	1 tbsp	PB	184	2.19
+ND00591	0	46.15384615	30.76923077	Fats_and_Oils	Butter	Flavored	1 tbsp	PB	184	2.19
+ND01340	0	28.125	31.25	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	473	3.53
+ND01788	1.3	0.37	31.89	Vegetables	Yellow	Plaintains	1 cup sliced = 148g	PB	310	0.5
+ND00965	42.85714286	14.28571429	32.14285714	Meats	Bacon_and_Sausage	Pork_Bacon	1 tbsp	PB	124	2.09
+ND01230	17.85714286	46.42857143	32.14285714	Nuts_and_Seeds	Cashews	Null	About 50 pieces	SW	226	3.98
+ND01486	6.36	0.5	33.06	Spices_and_Herbs	Seasonings	Null	136g=1 cup / 2.8g=1 tsp	PB	454	3.29
+ND01316	0	0	33.33333333	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	1 tbsp	PB	375	4.49
+ND01317	0	0	33.33333333	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	1 tbsp	SW	250	9.82
+ND01318	0	0	33.33333333	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	1 tbsp	WD	250	3.49
+ND01335	0	0	33.33333333	Sauces_Soups_Condiments_Dressing	Dressings	Other	1 tbsp	WD	250	3.49
+ND01419	16.66666667	8.333333333	33.33333333	Sauces_Soups_Condiments_Dressing	Soups	Null	1 tsp	PB	227	4.99
+ND01515	6.666666667	55.55555556	33.33333333	Sweets	Chocolate	Null	4 sections	PB	90	2.79
+ND00079	1.769911504	0	33.62831858	Baby_Foods	Baby_Fruits	Stage_2	1 pack	PB	226	1.07
+ND01402	0	0	33.78378378	Sauces_Soups_Condiments_Dressing	Soups	Null	1 cube	PB	92	3.79
+ND01522	14.28571429	50	33.92857143	Sweets	Chocolate	Null	2 pieces	PB	113	2.5
+ND01601	0	0	34.28571429	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	524	2.28
+ND01520	10	52.5	35	Sweets	Chocolate	Null	12 pieces	PB	100	3.49
+ND01403	0	0	35.71428571	Sauces_Soups_Condiments_Dressing	Soups	Null	1 tsp	SW	106	2.58
+ND00406	20	30	37.5	Dairy_and_Egg	Cheese	Parmesan	2 tsp	PB	227	2.99
+ND01591	0	50	37.5	Sweets	Sweeteners	Null	1 Tbsp	PB	289.1	4.79
+ND01269	23.07692308	26.92307692	38.46153846	Nuts_and_Seeds	Nut_Flours_and_Meal	Null	2 tbsp	PB	453	N/A
+ND01556	0	0	39.28571429	Sweets	Jellies_Jams_Preserves	Null	0.25 cup	PB	397	1.39
+ND01233	6.666666667	33.33333333	40	Nuts_and_Seeds	Coconut	Null	2 tbsp	SW	396	2.38
+ND01555	0	0	40	Sweets	Jellies_Jams_Preserves	Null	0.25 cup	SW	397	1.5
+ND01590	0	50	40	Sweets	Sweeteners	Null	1 Tbsp	PB	289.1	4.79
+ND01592	0	50	40	Sweets	Sweeteners	Null	1 Tbsp	SW	289.1	3.98
+ND01815	41.66666667	12.5	41.66666667	Nuts_and_Seeds	Nut_Butters	Peanut_Butter	2 Tbsp	PB	184	4.89
+ND01365	0	0	41.66666667	Sauces_Soups_Condiments_Dressing	Sauces	Barbeque	2 Tbsp	PB	510	1.91
+ND00861	12	4	44	Grains	Bread	Null	1 slice	PB	454	3.59
+ND00862	11.53846154	2.884615385	44.23076923	Grains	Bread	Null	2 slices	PB	567	3.29
+ND01500	17.81	22.27	44.24	Spices_and_Herbs	Seasonings	Null	"2g=1 tsp, whole / 6g=1 tbsp, whole"	I	20	2.96
+ND01523	17.5	30	45	Sweets	Chocolate	Null	1 bar	PB	200	6.29
+ND01479	3.296703297	17.58241758	45.05494505	Vegetables	Processed	Null	1 small onion rings	I	91	N/A
+ND00941	11.9047619	7.142857143	45.23809524	Grains	Tortillas	Null	1 tortilla	PB	340	3.59
+ND01243	13.20754717	24.52830189	45.28301887	Nuts_and_Seeds	Nut_Butters	Other	3 Tbsp	PB	510	2.99
+ND01244	13.20754717	24.52830189	45.28301887	Nuts_and_Seeds	Nut_Butters	Other	3 Tbsp	PB	510	2.99
+ND00863	12.28070175	1.754385965	45.61403509	Grains	Bread	Null	3 slices	PB	454	3.99
+ND00385	25	0	46.42857143	Dairy_and_Egg	Cheese	Mozzarella	0.25 cup	WD	227	3.59
+ND00934	7.142857143	35.71428571	46.42857143	Grains	Snacks	Null	1 oz (~ 21 pieces)	PB	255.1	3.49
+ND00935	7.142857143	35.71428571	46.42857143	Grains	Snacks	Null	1 oz (~ 13 pieces)	PB	241	3.49
+ND00864	11.62790698	2.325581395	46.51162791	Grains	Bread	Null	1 roll/1.5 oz	PB	340	3.29
+ND01502	22.98	4.07	47.75	Spices_and_Herbs	Seasonings	Null	"0g=1 tsp, leaves / 2.1g=1 tbsp, leaves"	I	35	3.29
+ND01505	28.57142857	21.42857143	48.21428571	Spices_and_Herbs	Seasonings	Null	1 .33 tbsp	SW	106	1.98
+ND01483	5.84	36.31	49.29	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 7g=1 tbsp	I	60	3.99
+ND01494	13.46	14.28	49.7	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 8g=1 tbsp	I	70	2.48
+ND00865	11.53846154	3.846153846	50	Grains	Bread	Null	1 slice	PB	567	3.15
+ND01304	0	0	50	Sauces_Soups_Condiments_Dressing	Condiments	Mustard	1 tsp	PB	340	2.79
+ND01511	14.70588235	23.52941176	50	Sweets	Candy	Null	1 bar	PB	170	6.79
+ND01504	26.63	5.48	50.64	Spices_and_Herbs	Seasonings	Null	0g=1 tsp / 1.6g=1 tbsp	I	21	2.19
+ND01339	0	0	51.47058824	Sauces_Soups_Condiments_Dressing	Dressings	Other	2 Tbsp	PB	473	3.53
+ND00917	10.71428571	35.71428571	51.78571429	Grains	Popcorn	Null	1 oz (~ 1 3/4 cup)	PB	326	3.99
+ND00711	14.3	22.7	51.875	Formulas	Carbohydrate	Null	100g	I	2400	269.99
+ND00712	14.3	22.7	51.875	Formulas	Carbohydrate	Null	100g	I	400	269.99
+ND01509	5.882352941	38.23529412	52.94117647	Sweets	Candy	Null	2 pieces	PB	170	6.29
+ND01531	25	0	53.125	Sweets	Cocoa_Powder	Null	1 Envelope	SW	66	1.98
+ND01512	20	30	53.33333333	Sweets	Candy	Null	1 Tbsp	PB	283	2.99
+ND00939	7.142857143	46.42857143	53.57142857	Grains	Snacks	Null	21 pieces	PB	283	3.19
+ND01495	14.14	12.89	53.99	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 6.8g=1 tbsp	I	28	2.49
+ND01501	19.96	4.36	55.82	Spices_and_Herbs	Seasonings	Null	1g=1 tsp / 3.1g=1 tbsp	I	24	4.49
+ND01496	14.29	14.01	55.83	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 6.3g=1 tbsp	I	24	3.39
+ND00931	10	26.66666667	56.66666667	Grains	Snacks	Null	27 crackers	PB	351	4.09
+ND00930	7.142857143	28.57142857	57.14285714	Grains	Snacks	Null	1 oz (~ 11 chips)	PB	297.6	4.29
+ND00937	7.142857143	35.71428571	57.14285714	Grains	Snacks	Null	1 oz (about 32 chips)	PB	276	3.49
+ND01528	19.6	13.7	57.9	Sweets	Cocoa_Powder	Null	86g=1 cup / 5.4g=1 tbsp	PB	226	3.89
+ND00938	3.571428571	35.71428571	58.92857143	Grains	Snacks	Null	21 pieces	PB	283	3.19
+ND01612	2.564102564	0	58.97435897	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	680	2.28
+ND01518	8.108108108	29.72972973	59.45945946	Sweets	Chocolate	Null	3 blocks	SW	198	2
+ND00770	2.5	0	60	Fruits	Apricots	Null	0.25 cup	PB	170	2.99
+ND01529	20	10	60	Sweets	Cocoa_Powder	Null	1 Tbsp	PB 	226	3.89
+ND01541	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01542	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01543	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01544	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01545	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01546	40	0	60	Sweets	Gelatin	Null	0.25 package	SW	8.5	0.74
+ND01547	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01548	40	0	60	Sweets	Gelatin	Null	0.25 package	PB	8.5	0.99
+ND01549	40	0	60	Sweets	Gelatin	Null	0.25 package	WD	8.5	1.09
+ND01610	2.5	0	60	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	623	2.28
+ND00925	7.142857143	21.42857143	60.71428571	Grains	Snacks	Null	about 13 pieces	PB	170.1	3.49
+ND01267	14.28571429	14.28571429	60.71428571	Nuts_and_Seeds	Nut_Flours_and_Meal	Null	2 tbsp	PB	453	7.49
+ND01513	5.555555556	30.55555556	61.11111111	Sweets	Chocolate	Null	3 blocks	SW	192	2
+ND01611	2.564102564	0	61.53846154	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	680	2.54
+ND00942	6.25	21.875	61.71875	Grains	Tortillas	Null	3 shells	PB	130	2.09
+ND00269	0	0	62.5	Beverages	Powdered_Mix	Null	0.5 packet	WD	36.8	2.99
+ND00933	6.25	28.125	62.5	Grains	Snacks	Null	5 crackers	PB	291	3.59
+ND00936	7.142857143	28.57142857	62.5	Grains	Snacks	Null	23 pieces	PB	240	3.49
+ND01602	0	0	62.5	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	623	2.28
+ND01530	20	0	63.33333333	Sweets	Cocoa_Powder	Null	1 pouch	PB	120	1.79
+ND00453	9.090909091	9.090909091	63.63636364	Dairy_and_Egg	Milk	Flavored	2 tbsp	PB	453	5.19
+ND01493	11.3	2.1	63.725	Spices_and_Herbs	Seasonings	Null	g= / g=	I	14	3.19
+ND01490	9.11	7.43	63.94	Spices_and_Herbs	Seasonings	Null	"1g=1 tsp, leaves / 2.7g=1 tbsp, leaves"	I	19	3.49
+ND01491	10.39	3.26	63.95	Spices_and_Herbs	Seasonings	Null	"2g=1 tsp, ground / 6.9g=1 tbsp, ground"	I	120	5.69
+ND01481	4.88	15.22	64.06	Spices_and_Herbs	Seasonings	Null	1g=1 tsp / 3.3g=1 tbsp	I	9	2.77
+ND01517	7.142857143	28.57142857	64.28571429	Sweets	Chocolate	Null	1 Tbsp	WD	340	3.69
+ND00905	15.55555556	6.666666667	64.44444444	Grains	Oats	Null	1 packet	PB	360	3.99
+ND00851	2.5	0	65	Fruits	Prunes	Null	5 prunes	PB	255	3.15
+ND01605	0	0	65	Sweets	Syrups_and_Toppings	Null	1 Tbsp	SW	623.6	2.18
+ND01484	5.97	13	65.53	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 6.5g=1 tbsp	I	24	5.69
+ND00270	0	0	65.78947368	Beverages	Powdered_Mix	Null	0.5 packet	WD	36.8	2.99
+ND00927	13.33333333	16.66666667	65.83333333	Grains	Snacks	Null	51 pieces 	PB	187	2.39
+ND01609	2.43902439	0	65.85365854	Sweets	Syrups_and_Toppings	Null	2 Tbsp	SW	623	2.28
+ND01231	0	13.88888889	65.97222222	Nuts_and_Seeds	Coconut	Null	2 tbsp	PB	425	2.59
+ND01498	16.66666667	0	66.66666667	Spices_and_Herbs	Seasonings	Null	2 tsp	SW	35	0.55
+ND01499	16.66666667	0	66.66666667	Spices_and_Herbs	Seasonings	Null	2 tsp	SW	35	0.68
+ND01819	16.66666667	0	66.66666667	Spices_and_Herbs	Seasonings	Null	2 tsp	SW	35	0.68
+ND01514	6.666666667	30	66.66666667	Sweets	Chocolate	Null	32 chips	WD	340	4.29
+ND01516	6.666666667	26.66666667	66.66666667	Sweets	Chocolate	Null	1 tbsp	PB 	340	2.99
+ND01519	8.333333333	29.16666667	66.66666667	Sweets	Chocolate	Null	1 Tbsp	SW	326	2.48
+ND00906	14.28571429	7.142857143	67.85714286	Grains	Oats	Null	1 packet	PB	336	3.79
+ND00743	0	0	67.93478261	Formulas	Protein	Null	1 packet	I	128	23.99
+ND01818	12.5	12.5	68.75	Spices_and_Herbs	Seasonings	Null	1 .33 tbsp	SW	106	1.98
+ND01527	12.5	6.25	68.75	Sweets	Cocoa_Powder	Null	1 Envelope	SW	125	1.98
+ND01489	9	4.28	68.92	Spices_and_Herbs	Seasonings	Null	"1g=1 tsp, leaves / 1.8g=1 tsp, ground"	I	72	2.79
+ND00926	10	16.66666667	69.16666667	Grains	Snacks	Null	55 pieces	PB	187	2.39
+ND00928	10	16.66666667	69.16666667	Grains	Snacks	Null	55 pieces	PB	187	2.39
+ND01482	5.76	12.6	69.28	Spices_and_Herbs	Seasonings	Null	1g=1 tsp / 5.6g=1 tbsp	I	31	4.49
+ND00271	0	0	69.44444444	Beverages	Powdered_Mix	Null	 1/8 packet	WD	82	3.99
+ND00871	15	7.5	70	Grains	Bread	Null	2 slices	PB	230	2.5
+ND00932	10	20	70	Grains	Snacks	Null	55 pieces 	PB 	187	2.39
+ND01525	7.407407407	12.96296296	70.37037037	Sweets	Cocoa_Powder	Null	3 Tbsp	SW	453	3.62
+ND00901	11.76470588	5.882352941	70.58823529	Grains	Oats	Null	1 packet	PB	340	3.99
+ND00902	9.677419355	4.838709677	70.96774194	Grains	Oats	Null	1 packet	PB	328	3.99
+ND00874	14.28571429	10.71428571	71.42857143	Grains	Bread	Null	1 slice	PB	200	2.5
+ND00878	10.71428571	7.142857143	71.42857143	Grains	Cereal	Null	1 cup	SW	510	3.52
+ND01488	8.98	4.24	71.62	Spices_and_Herbs	Seasonings	Null	1g=1 tsp / 5.2g=1 tbsp	I	24	3.19
+ND00011	13.33333333	6.666666667	71.66666667	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.25 cup	SW	227	2.08
+ND01510	7.692307692	0	71.79487179	Sweets	Candy	Null	15 bears	PB	369	1.67
+ND00870	14.28571429	5.357142857	71.875	Grains	Bread	Null	0.25 cup	PB	425	1.95
+ND01485	6.09	8.69	72.12	Spices_and_Herbs	Seasonings	Null	1g=1 tsp / 6g=1 tbsp	I	25	2.96
+ND00916	10	3.75	72.5	Grains	Popcorn	Null	3 tbsp unpopped	PB	850	5.29
+ND00915	10	3.75	72.5	Grains	Popcorn	Null	3 tbsp unpopped	PB	850	5.29
+ND01526	9.090909091	4.545454545	72.72727273	Sweets	Cocoa_Powder	Null	2 Tbsp	SW	453	4.28
+ND01497	16.55	0.73	72.73	Spices_and_Herbs	Seasonings	Null	3g=1 tsp / 9.7g=1 tbsp	I	255	2.99
+ND00910	8.108108108	6.756756757	72.97297297	Grains	Oats	Null	1 packet	PB	370	3.63
+ND00912	12.5	1.785714286	73.21428571	Grains	Pasta	Null	0.5 cup dry	SW	907	2.38
+ND00913	12.5	1.785714286	73.21428571	Grains	Pasta	Null	2 oz (1/8 pkg) dry	PB	454	1.69
+ND00929	6.666666667	16.66666667	73.33333333	Grains	Snacks	Null	9 minicakes	PB	172	2.69
+ND00918	6.666666667	10	73.33333333	Grains	Snacks	Null	5 crackers 	PB	435	3.19
+ND00911	8	8	74	Grains	Oats	Null	1 packet	PB	400	3.36
+ND01508	0	0	74.07407407	Sweets	Candy	Null	1 stick	SW	40.5	0.96
+ND00890	19.35483871	1.612903226	74.19354839	Grains	Cereal	Null	1 cup	SW	510	3.48
+ND00900	9.302325581	4.651162791	74.41860465	Grains	Oats	Null	1 packet	PB	430	3.63
+ND01487	7.61	8.36	74.97	Spices_and_Herbs	Seasonings	Null	"0g=1 tsp, crumbled / 1.8g=1 tbsp, crumbled"	I	3	2.48
+ND00012	0	14.28571429	75	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	1 biscuit 	SW	126	1.98
+ND00899	7.142857143	5.357142857	75	Grains	Grains_Other	Null	1 packet	PB	340.2	3.15
+ND00923	6.25	15.625	75	Grains	Snacks	Null	9 minicakes	PB	172	2.69
+ND01472	0	0	75	Spices_and_Herbs	Seasonings	Null	2 tsp	SW	28	0.78
+ND01820	0	0	75	Spices_and_Herbs	Seasonings	Null	2 tsp	SW	28	0.78
+ND00903	8.888888889	4.444444444	75.55555556	Grains	Oats	Null	1 packet	PB	360	2.98
+ND00904	8.888888889	4.444444444	75.55555556	Grains	Oats	Null	1 packet	PB	360	2.98
+ND00921	7.142857143	10.71428571	75.89285714	Grains	Snacks	Null	5 crackers	PB	453	1.39
+ND01599	0.09	0.45	76.3975	Sweets	Sweeteners	Null	6g=1 tsp / 55g=.25 cup	PB	667	8.49
+ND00909	9.302325581	4.651162791	76.74418605	Grains	Oats	Null	1 packet	SW	430	2.5
+ND00907	8.571428571	5.714285714	77.14285714	Grains	Oats	Null	1 packet	PB	350	3.63
+ND00908	8.571428571	5.714285714	77.14285714	Grains	Oats	Null	1 packet	PB	350	3.63
+ND00914	12.5	1.785714286	77.23214286	Grains	Pasta	Null	0.5 cup uncooked	PB	454	1.33
+ND00920	6.451612903	11.29032258	77.41935484	Grains	Snacks	Null	8 crackers	PB	408	4.19
+ND00919	6.451612903	11.29032258	77.41935484	Grains	Snacks	Null	8 crackers	PB	408	4.19
+ND00922	6.451612903	9.677419355	77.41935484	Grains	Snacks	Null	8 crackers 	SW	408	2.98
+ND00867	11.11111111	0	77.77777778	Grains	Bread	Null	2 slices 	LK	270	3.29
+ND01566	0	0	78.125	Sweets	Puddings	Null	0.25 package 	PB	25	1.19
+ND01567	0	0	78.125	Sweets	Puddings	Null	0.25 package	PB	28	1.19
+ND01571	0	0	78.125	Sweets	Puddings	Null	0.25 package	PB	28	1.19
+ND01568	0	0	78.125	Sweets	Puddings	Null	0.25 package	PB	28	1.19
+ND01569	0	0	78.125	Sweets	Puddings	Null	0.25 package	PB	28	1.19
+ND01570	0	0	78.125	Sweets	Puddings	Null	0.25 package	PB	28	1.19
+ND00873	14.28571429	0	78.57142857	Grains	Bread	Null	1 slice 	SW	275	2.54
+ND00852	2.5	0	78.75	Fruits	Raisins	Null	0.25 cup	PB	567	3
+ND00891	7.142857143	5.357142857	79.01785714	Grains	Cereal	Null	3/4 cup	SW	347	2.89
+ND01492	10.41	1.04	79.12	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 6.9g=1 tbsp	I	127	3.59
+ND00869	11.11111111	2.777777778	79.86111111	Grains	Bread	Null	3 slices	PB	140	1.99
+ND01480	3.99	1.24	80.59	Spices_and_Herbs	Seasonings	Null	2g=1 tsp / 7.9g=1 tbsp	I	116	2.89
+ND00897	6.25	7.8125	81.25	Grains	Cereal	Null	3/4 cup	SW	362	3.28
+ND00882	3.703703704	5.555555556	81.48148148	Grains	Cereal	Null	3/4 cup	SW	318	2.98
+ND00884	7.407407407	5.555555556	81.48148148	Grains	Cereal	Null	3/4 cup	SW	340	2.98
+ND00868	9.090909091	0	81.81818182	Grains	Bread	Null	1 slice	PB	275	2.5
+ND01588	9.090909091	0	81.81818182	Sweets	Puddings	Null	0.25 pacakge	PB	39	1.19
+ND00924	6.25	9.375	82.03125	Grains	Snacks	Null	5 crackers	PB	453	2.95
+ND00893	6.666666667	5	82.08333333	Grains	Cereal	Null	3/4 cup	SW	365	3.98
+ND00892	7.142857143	5.357142857	82.14285714	Grains	Cereal	Null	3/4 cup	SW	320	2.82
+ND00782	0	0	82.5	Fruits	Berries	Other	0.25 cup	PB	510	4.99
+ND00888	6.896551724	5.172413793	82.75862069	Grains	Cereal	Null	1 cup	SW	340	3.52
+ND00877	10.63829787	2.127659574	82.9787234	Grains	Cereal	Null	3/4 cup	PB	396	3.69
+ND00272	0	0	83.33333333	Beverages	Powdered_Mix	Null	 1/8 packet	WD	65	3.99
+ND00273	0	0	83.33333333	Beverages	Powdered_Mix	Null	 1/8 packet	WM	68	2.48
+ND00895	3.333333333	6.666666667	83.33333333	Grains	Cereal	Null	3/4 cup	SW	343	3.28
+ND00894	3.333333333	6.666666667	83.33333333	Grains	Cereal	Null	3/4 Cup	SW	343	3.28
+ND00875	6.666666667	3.333333333	83.33333333	Grains	Cereal	Null	0.5 cup	SW	459	3.74
+ND01565	0	0	83.33333333	Sweets	Puddings	Null	0.25 package	PB	22	1.19
+ND00881	7.547169811	1.886792453	84.90566038	Grains	Cereal	Null	1 cup	SW	703	3.68
+ND00885	3.703703704	5.555555556	85.18518519	Grains	Cereal	Null	3/4 Cup	SW	340	2.98
+ND00886	7.407407407	1.851851852	85.18518519	Grains	Cereal	Null	1 cup	SW	340	3.32
+ND00008	14.28571429	0	85.71428571	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	75 pieces	SW	60	2.88
+ND01802	14.28571429	0	85.71428571	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup	SW	42	2.78
+ND00025	14.28571429	0	85.71428571	Baby_Foods	Baby_Dairy	Null	32 pieces	PB	28	2.99
+ND00026	14.28571429	0	85.71428571	Baby_Foods	Baby_Dairy	Null	32 pieces	SW	28	2.48
+ND00879	3.571428571	3.571428571	85.71428571	Grains	Cereal	Null	3/4 cup	SW	309	2.98
+ND00880	7.142857143	0	85.71428571	Grains	Cereal	Null	1 cup	SW	680	3.38
+ND00889	6.451612903	1.612903226	86.69354839	Grains	Cereal	Null	1 cup 	PB 	340	3.69
+ND00009	12.5	0	87.5	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	4 rusks	WD	50	2.09
+ND00010	12.5	0	87.5	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	4 rusks	WD	50	2.99
+ND00858	0	0	87.5	Grains	Baking_Powder_and_Cornstarch	Cornstarch	1 tbsp	PB	340	1.39
+ND00887	6.25	1.5625	87.5	Grains	Cereal	Null	3/4 cup	SW	354	3.28
+ND01600	0.94	0	89.11	Sweets	Sweeteners	Null	"1g=1 serving,  1 packet / 0.8g=1 serving,  1 packet SUGAR TWIN"	PB	250	2.99
+ND00001	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	PB	42	2
+ND00002	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	SW	42	1.98
+ND00003	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	SW	42	1.98
+ND00004	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	SW	42	1.98
+ND00005	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	PB	42	2
+ND00006	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	SW	42	1.98
+ND00007	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup (60 pieces)	SW	42	1.98
+ND01804	0	0	89.28571429	Baby_Foods	Baby_Cereal_and_Rice_Snacks	Null	0.5 cup	SW	42	2.78
+ND00276	0	0	89.28571429	Beverages	Powdered_Mix	Null	 1/8 packet	SW	52.5	2.48
+ND00277	0	0	89.28571429	Beverages	Powdered_Mix	Null	 1/8 packet	WD	53	3.99
+ND00027	14.28571429	0	92.85714286	Baby_Foods	Baby_Dairy	Null	0.25 cup 	SW	28	2.48
+ND00028	14.28571429	0	92.85714286	Baby_Foods	Baby_Dairy	Null	0.25 cup 	SW	28	2.48
+ND00029	14.28571429	0	92.85714286	Baby_Foods	Baby_Dairy	Null	0.25 cup 	PB	28	2.99
+ND00872	6.666666667	0	93.33333333	Grains	Bread	Null	1 slice	PB	275	2.5
+ND01320	0	0	93.33333333	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	1 tbsp	PB	250	5.49
+ND00859	0	0	93.75	Grains	Baking_Powder_and_Cornstarch	Cornstarch	1 tbsp	PB	454	1.69
+ND00274	0	0	94.11764706	Beverages	Powdered_Mix	Null	1/8 CAP makes 8 fl oz	PB	538	4.29
+ND00275	0	0	94.11764706	Beverages	Powdered_Mix	Null	1/8 CAP makes 8 fl oz	PB	538	4.29
+ND00709	0	0	94.5	Formulas	Carbohydrate	Null	100 g of powder	I	227	18
+ND00278	0	0	96.15384615	Beverages	Powdered_Mix	Null	 1/8 packet	WD	57	3.99
+ND00279	0	0	96.15384615	Beverages	Powdered_Mix	Null	0.5 packet	SW	22.6	2.48
+ND00281	0	0	100	Beverages	Powdered_Mix	Null	0.5 packet	SW	17	2.48
+ND00280	0	0	100	Beverages	Powdered_Mix	Null	 1/8 packet	WD	45	3.99
+ND00853	0	0	100	Grains	Baking_Powder_and_Cornstarch	Bakin_Powder	1/8 tsp	WD	113	1.79
+ND01901	16.54	30.74	100	Nuts_and_Seeds	Chia_Seeds	Null	28g=1 oz / g=	PB	454	9.99
+ND01319	0	0	100	Sauces_Soups_Condiments_Dressing	Dressings	Balsmic_Vinegar	1 tbsp	PB	250	5.49
+ND01927	0	0	100	Supplement	Minerals	Null	2 Caplets	CVS	120	12.99
+ND01928	0	0	100	Supplement	Minerals	Null	2 Tablets	CVS	120	13.99
+ND01905	0	0	100	Supplement	Minerals	Null	1 Tablet	WM	120	6
+ND01906	0	0	100	Supplement	Minerals	Null	2 tablets	SW	180	7.88
+ND01879	0	0	100	Supplement	Minerals	Null	1 soft gel	CVS	100	17.29
+ND01923	0	0	100	Supplement	Minerals	Null	1 Tablet	CVS	200	8.79
+ND01880	0	0	100	Supplement	Minerals	Null	1 Softgel	CVS	90	10.49
+ND01929	0	0	100	Supplement	Minerals	Null	1 Caplet	CVS	160	16.29
+ND01931	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	200	18.99
+ND01884	0	0	100	Supplement	Multivitamins	Null	1 tablet	CVS	300	22.99
+ND01886	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	200	18.99
+ND01922	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	120	12.29
+ND01936	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	200	12.99
+ND01926	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	120	9.99
+ND01933	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	365	18.29
+ND01930	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	200	14.99
+ND01932	0	0	100	Supplement	Multivitamins	Null	1 Tablet	CVS	120	9.49
+ND01907	0	0	100	Supplement	Multivitamins	Null	1 Tablet	WM	220	6.98
+ND01908	0	0	100	Supplement	Multivitamins	Null	1 Tablet	WM	130	4.44
+ND01909	0	0	100	Supplement	Multivitamins	Null	1 Tablet	SW	200	11.88
+ND01910	0	0	100	Supplement	Multivitamins	Null	1 Tablet	WM	200	7.74
+ND01911	0	0	100	Supplement	Multivitamins	Null	1 Tablet	WM	100	3.98
+ND01925	0	0	100	Supplement	Multivitamins	Null	1 softgel	CVS	60	12.49
+ND01935	0	0	100	Supplement	Multivitamins	Null	1 TABLET	CVS	200	17.79
+ND01890	0	0	100	Supplement	Multivitamins	Null	1 tablet	CVS	200	17.79
+ND01924	0	0	100	Supplement	Omegas	Null	1 softgel	CVS	180	19.99
+ND01594	0	0	100	Sweets	Sweeteners	Null	1 packet	SW	50	2.24
+ND01595	0	0	100	Sweets	Sweeteners	Null	1 tsp	SW	275	6.47
+ND01596	0	0	100	Sweets	Sweeteners	Null	1 tsp	SW	275	6.98
+ND00722	0	0	100	Formulas	Liquid_Nutrition	Null	1 L	I	1.1	4.98
+ND00723	0	0	100	Formulas	Liquid_Nutrition	Null	1 L	I	1.1	4.98
+ND01834	0	0	100	Supplement	Minerals	Null	1 Tablet	I	1000	N/A

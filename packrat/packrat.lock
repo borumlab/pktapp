@@ -1,0 +1,207 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.6.1
+RVersion: 3.2.2
+Repos: BioCsoft=http://bioconductor.org/packages/3.1/bioc,
+    BioCann=http://bioconductor.org/packages/3.1/data/annotation,
+    BioCexp=http://bioconductor.org/packages/3.1/data/experiment,
+    BioCextra=http://bioconductor.org/packages/3.1/extra,
+    CRAN=http://cran.rstudio.com,
+    CRANextra=http://www.stats.ox.ac.uk/pub/RWin
+
+Package: BH
+Source: CRAN
+Version: 1.58.0-1
+Hash: 4f6db3b5311bb006f536a2e67278d058
+
+Package: D3TableFilter
+Source: github
+Version: 0.5
+Hash: c08a020308fb5f1ccf74b40a227aa7d0
+Requires: gtools, htmlwidgets
+GithubRepo: D3TableFilter
+GithubUsername: ThomasSiegmund
+GithubRef: master
+GithubSha1: c9f07158b375b61fedb62e44f71ef44318c78617
+
+Package: DBI
+Source: CRAN
+Version: 0.3.1
+Hash: 096699d1ac1cf530acfc646a0c90ee5d
+
+Package: DT
+Source: github
+Version: 0.1.40
+Hash: fb12e4b603d9bd742e18bbb92a8d7a46
+Requires: htmltools, htmlwidgets, magrittr
+GithubRepo: DT
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: 7820e9e35bb8286a9c86257dd0210b83d1d6257c
+
+Package: R6
+Source: CRAN
+Version: 2.1.1
+Hash: 20a88b2c9c84aecff2702789a4d102f5
+
+Package: RCurl
+Source: CRAN
+Version: 1.95-4.7
+Hash: 7756ed9df5d79ca87bc9e93f85d89b87
+Requires: bitops
+
+Package: RJSONIO
+Source: CRAN
+Version: 1.3-0
+Hash: fb672e20eb6f3010a3639f855d8ef6de
+
+Package: RMySQL
+Source: CRAN
+Version: 0.10.6
+Hash: 48f895bfad271e30dd09086ccad57aa3
+Requires: DBI
+
+Package: Rcpp
+Source: CRAN
+Version: 0.12.2
+Hash: 1928c2b7372e3f033217335f3fad25a3
+
+Package: assertthat
+Source: CRAN
+Version: 0.1
+Hash: 0afb92b59b02593c70ff8046700ba9d3
+
+Package: bitops
+Source: CRAN
+Version: 1.0-6
+Hash: 67d0775189fd0041d95abca618c5c07e
+
+Package: digest
+Source: CRAN
+Version: 0.6.8
+Hash: de202f956596a476d09304e3a2ebf1e5
+
+Package: dplyr
+Source: CRAN
+Version: 0.4.3
+Hash: 6747c41888a187a26ac4b03789b52a06
+Requires: BH, DBI, R6, Rcpp, assertthat, lazyeval, magrittr
+
+Package: gtools
+Source: CRAN
+Version: 3.5.0
+Hash: 471b2e2452dfb30fdc1dd6f1b567925a
+
+Package: htmltools
+Source: github
+Version: 0.2.9
+Hash: 73f636e65f36d7a9595db4299362129e
+Requires: digest
+GithubRepo: htmltools
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: 903f3b32b3a28bb64994689039ec76c9b51dad24
+
+Package: htmlwidgets
+Source: CRAN
+Version: 0.5
+Hash: 0aa33e8666baac6fcff4e376789b9c2e
+Requires: htmltools, jsonlite, yaml
+
+Package: httpuv
+Source: CRAN
+Version: 1.3.3
+Hash: ad41c96192683a69d291a45192ec8e2b
+Requires: Rcpp
+
+Package: jsonlite
+Source: CRAN
+Version: 0.9.17
+Hash: d44b8f8c89ff794d6ec8a07dde103d24
+
+Package: lattice
+Source: CRAN
+Version: 0.20-33
+Hash: d7158cf4e63e8c12cb227738076b37d8
+
+Package: lazyeval
+Source: CRAN
+Version: 0.1.10
+Hash: 9679f1ac7f6bc07bc79755f34cd15e1f
+
+Package: magrittr
+Source: CRAN
+Version: 1.5
+Hash: bdc4d48c3135e8f3b399536ddf160df4
+
+Package: mime
+Source: CRAN
+Version: 0.4
+Hash: b08c52dae92a0a11e64a4deea032ec33
+
+Package: packrat
+Source: github
+Version: 0.4.6-1
+Hash: d65a6979f53cbe033234d5e697e95908
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: master
+GithubSha1: ebb66ad768c9c7a7d5894e12b45c9634e116e7a0
+
+Package: plyr
+Source: CRAN
+Version: 1.8.3
+Hash: 5cf4672c5940e265f2602d5d806d303d
+Requires: Rcpp
+
+Package: rCharts
+Source: github
+Version: 0.4.2
+Hash: 2894b09a065a77773d359114378f4554
+Requires: RCurl, RJSONIO, lattice, plyr, whisker, yaml
+GithubRepo: rCharts
+GithubUsername: ramnathv
+GithubRef: dev
+GithubSha1: 8d3fe35be5a4b41907d800944a14ac0d193c5b1a
+
+Package: rHighcharts
+Source: github
+Version: 1.0
+Hash: 149f7dd8a7da3b35c7f07a2abb341930
+Requires: RJSONIO, shiny
+GithubRepo: rHighcharts
+GithubUsername: metagraf
+GithubRef: master
+GithubSha1: d883d3b412afca5674d64a5c10be005e5e8b4d5a
+
+Package: reshape
+Source: CRAN
+Version: 0.8.5
+Hash: 08a3fc774cceaaec54edea9e9687a6c5
+Requires: plyr
+
+Package: shiny
+Source: CRAN
+Version: 0.12.2
+Hash: 31cd1fe3028ac7ef846adacf8ed5bfd2
+Requires: R6, digest, htmltools, httpuv, jsonlite, mime, xtable
+
+Package: shinyjs
+Source: CRAN
+Version: 0.2.3
+Hash: 3aa8679fa1055f3565ce145b5de0e466
+Requires: digest, htmltools, shiny
+
+Package: whisker
+Source: CRAN
+Version: 0.3-2
+Hash: 803d662762e532705c2c066a82d066e7
+
+Package: xtable
+Source: CRAN
+Version: 1.8-0
+Hash: 3816a222bb6837b3344d230b54b4c3cc
+
+Package: yaml
+Source: CRAN
+Version: 2.1.13
+Hash: 4854ccabebc225e8a7309fb4a74980de

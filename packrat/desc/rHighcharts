@@ -1,0 +1,26 @@
+Package: rHighcharts
+Type: Package
+Title: rHighcharts: An R wrapper for Highcharts JS
+Version: 1.0
+Author: Thomas Reinholdsson
+Maintainer: Thomas Reinholdsson <reinholdsson@gmail.com>
+Description: rHighcharts package is an R wrapper for the Highcharts JS, which is a
+    JavaScript charting library based on SVG and VML rendering by Highsoft
+    Solutions AS. Highcharts JS is not free for commercial use, so make sure
+    you have a valid license to use it. rHighcharts is packaged with Highcharts JS
+    v3.0.0.
+License: GPL-2
+Depends: R (>= 2.14.0), RJSONIO, shiny
+Collate: 'Chart-class.r' 'renderChart.r' 'chartOutput.r'
+        'rHighcharts.r'
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: rHighcharts
+RemoteUsername: metagraf
+RemoteRef: master
+RemoteSha: d883d3b412afca5674d64a5c10be005e5e8b4d5a
+GithubRepo: rHighcharts
+GithubUsername: metagraf
+GithubRef: master
+GithubSHA1: d883d3b412afca5674d64a5c10be005e5e8b4d5a
+Built: R 3.2.2; ; 2015-11-23 20:39:25 UTC; windows
